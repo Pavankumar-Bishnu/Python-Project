@@ -1,0 +1,1201 @@
+Age,Age_Category,Gender,Panic_Attack_Frequency,Duration_Minutes,Trigger,Heart_Rate,Sweating,Shortness_of_Breath,Dizziness,Chest_Pain,Trembling,Medical_History,Medication,Caffeine_Intake,Exercise_Frequency,Sleep_Hours,Alcohol_Consumption,Smoking,Therapy,Panic_Score
+56,Middle_aged,Female,9,5,Caffeine,134,Yes,No,Yes,Yes,No,Anxiety,No,2,3,6,5,Yes,Yes,5
+46,Middle_aged,Male,8,9,Stress,139,Yes,Yes,No,No,No,PTSD,Yes,2,5,5,3,No,Yes,7
+32,Middle_aged,Female,6,31,PTSD,141,No,Yes,Yes,No,No,Depression,No,4,0,8,8,No,Yes,7
+60,Middle_aged,Male,5,20,Caffeine,109,Yes,Yes,No,No,Yes,Depression,No,3,3,5,8,No,No,1
+25,Youth_adult,Non-binary,6,10,Caffeine,101,Yes,No,Yes,Yes,Yes,Depression,No,3,6,7,2,No,No,5
+38,Middle_aged,Male,0,44,Social Anxiety,154,Yes,Yes,Yes,No,No,Depression,Yes,1,4,4,6,No,No,8
+56,Middle_aged,Male,0,17,PTSD,108,Yes,Yes,Yes,No,No,Anxiety,No,0,6,6,4,Yes,Yes,7
+36,Middle_aged,Male,7,39,PTSD,120,Yes,No,No,Yes,Yes,PTSD,No,0,4,8,8,No,Yes,2
+40,Middle_aged,Non-binary,1,23,PTSD,121,Yes,No,No,Yes,No,Anxiety,No,4,5,4,1,No,Yes,8
+28,Youth_adult,Female,9,16,Caffeine,144,No,No,Yes,No,Yes,Anxiety,No,4,6,7,2,No,Yes,2
+28,Youth_adult,Female,8,20,PTSD,110,No,Yes,No,No,No,PTSD,No,3,4,5,9,No,No,10
+41,Middle_aged,Male,6,14,Caffeine,109,Yes,Yes,No,No,No,Anxiety,No,5,6,6,4,No,Yes,1
+53,Middle_aged,Female,5,29,PTSD,97,Yes,Yes,No,No,No,Anxiety,No,0,2,6,4,No,Yes,3
+57,Middle_aged,Male,0,24,PTSD,96,Yes,Yes,Yes,No,Yes,Depression,Yes,5,5,6,9,Yes,Yes,3
+41,Middle_aged,Female,0,35,Social Anxiety,117,Yes,No,No,Yes,No,Depression,No,0,5,7,6,Yes,Yes,6
+20,Youth_adult,Male,1,8,Caffeine,93,Yes,Yes,Yes,Yes,Yes,PTSD,No,5,3,7,7,No,No,3
+39,Middle_aged,Male,5,27,PTSD,158,Yes,Yes,Yes,No,Yes,Depression,No,5,5,5,7,No,Yes,7
+19,Teenager,Male,5,6,PTSD,135,Yes,No,No,No,Yes,Depression,Yes,0,1,6,0,Yes,No,8
+41,Middle_aged,Female,1,26,Caffeine,101,Yes,Yes,No,Yes,No,PTSD,Yes,1,3,4,0,No,No,3
+61,Senior_citizen,Female,0,41,Caffeine,146,Yes,Yes,Yes,No,Yes,Anxiety,Yes,1,3,7,2,Yes,Yes,9
+47,Middle_aged,Male,9,12,Caffeine,135,No,No,Yes,No,Yes,Anxiety,Yes,4,6,8,0,Yes,Yes,1
+55,Middle_aged,Female,4,11,Phobia,98,Yes,No,No,No,No,Depression,No,5,2,5,0,No,No,3
+19,Teenager,Female,4,18,PTSD,136,No,No,No,No,No,Anxiety,Yes,5,3,5,9,Yes,No,3
+38,Middle_aged,Female,1,7,PTSD,123,No,Yes,Yes,No,No,Anxiety,No,5,0,4,7,Yes,Yes,7
+50,Middle_aged,Male,5,20,PTSD,114,Yes,Yes,No,Yes,No,PTSD,Yes,5,4,8,0,Yes,Yes,5
+29,Youth_adult,Male,8,23,Phobia,80,Yes,No,Yes,No,Yes,Anxiety,Yes,5,4,8,8,No,Yes,4
+39,Middle_aged,Female,1,22,Caffeine,131,Yes,Yes,Yes,No,No,Anxiety,No,3,5,5,1,Yes,Yes,2
+61,Senior_citizen,Male,9,20,Social Anxiety,149,No,Yes,No,No,No,Anxiety,Yes,2,6,6,8,No,Yes,7
+42,Middle_aged,Male,1,12,Caffeine,116,No,No,Yes,No,Yes,Anxiety,No,5,2,5,6,No,Yes,3
+44,Middle_aged,Female,2,37,Caffeine,144,Yes,Yes,Yes,No,Yes,Anxiety,Yes,3,4,7,8,No,Yes,7
+59,Middle_aged,Non-binary,6,16,Phobia,130,Yes,No,No,Yes,Yes,Depression,No,1,0,7,2,Yes,Yes,10
+45,Middle_aged,Male,5,15,PTSD,80,No,Yes,No,Yes,Yes,PTSD,No,5,2,6,0,No,Yes,7
+33,Middle_aged,Male,7,9,Caffeine,100,Yes,Yes,Yes,No,No,PTSD,No,1,1,8,0,Yes,No,2
+32,Middle_aged,Female,7,31,PTSD,132,No,Yes,No,Yes,No,Anxiety,Yes,4,4,6,9,No,No,7
+64,Senior_citizen,Male,5,16,Stress,95,No,No,No,Yes,No,Anxiety,No,2,3,4,5,No,No,6
+61,Senior_citizen,Male,9,21,PTSD,140,Yes,Yes,Yes,No,No,Depression,No,0,0,7,6,Yes,Yes,10
+20,Youth_adult,Male,2,10,PTSD,133,Yes,Yes,No,No,Yes,PTSD,No,2,6,6,8,No,No,4
+54,Middle_aged,Female,2,37,Social Anxiety,119,Yes,No,Yes,Yes,No,PTSD,No,5,6,8,5,Yes,Yes,5
+24,Youth_adult,Female,0,9,PTSD,105,Yes,No,Yes,No,Yes,Anxiety,Yes,5,0,6,4,Yes,No,8
+38,Middle_aged,Male,6,32,Social Anxiety,159,Yes,No,No,No,No,Depression,No,2,4,6,1,No,Yes,5
+26,Youth_adult,Male,4,18,Caffeine,144,No,Yes,No,No,Yes,Depression,Yes,2,5,7,1,No,Yes,3
+56,Middle_aged,Male,3,9,PTSD,153,No,Yes,Yes,No,No,Anxiety,Yes,4,1,6,7,Yes,No,2
+35,Middle_aged,Female,9,37,PTSD,143,No,No,Yes,No,Yes,Depression,No,1,3,5,0,Yes,No,6
+21,Youth_adult,Male,3,23,PTSD,122,Yes,No,Yes,Yes,Yes,Anxiety,Yes,0,1,8,7,Yes,No,6
+42,Middle_aged,Male,3,26,Caffeine,96,No,Yes,Yes,Yes,Yes,Depression,Yes,2,1,5,9,No,Yes,7
+31,Middle_aged,Female,5,9,Phobia,138,No,Yes,Yes,No,No,Depression,Yes,0,4,5,6,No,Yes,8
+26,Youth_adult,Male,7,6,Social Anxiety,102,Yes,No,Yes,No,No,Anxiety,No,2,3,8,6,Yes,Yes,4
+43,Middle_aged,Female,7,34,Caffeine,86,Yes,Yes,No,No,Yes,Anxiety,No,1,4,4,4,Yes,No,8
+19,Teenager,Male,4,43,Phobia,123,Yes,No,Yes,No,No,Anxiety,No,0,4,5,2,No,No,1
+37,Middle_aged,Male,5,8,PTSD,132,No,Yes,Yes,No,No,Anxiety,Yes,3,5,7,6,No,No,6
+45,Middle_aged,Male,3,37,PTSD,150,Yes,Yes,No,No,No,Anxiety,No,1,0,4,6,No,Yes,6
+64,Senior_citizen,Female,8,17,Caffeine,158,No,No,No,Yes,No,Anxiety,No,0,6,8,6,No,No,3
+24,Youth_adult,Female,7,24,PTSD,113,Yes,Yes,Yes,Yes,Yes,Anxiety,No,2,5,6,1,Yes,Yes,9
+61,Senior_citizen,Female,9,11,PTSD,125,No,Yes,Yes,No,Yes,Anxiety,Yes,2,6,7,2,No,Yes,5
+25,Youth_adult,Male,9,19,PTSD,147,Yes,Yes,No,Yes,No,Anxiety,No,1,5,4,2,No,No,1
+64,Senior_citizen,Female,0,27,PTSD,157,Yes,Yes,Yes,Yes,No,Anxiety,No,1,4,5,3,No,No,7
+52,Middle_aged,Male,1,18,PTSD,157,Yes,No,Yes,No,No,Anxiety,Yes,2,5,7,8,Yes,Yes,10
+31,Middle_aged,Male,8,27,Stress,95,Yes,No,No,No,No,Depression,Yes,0,6,6,9,No,Yes,3
+34,Middle_aged,Female,7,23,Phobia,150,No,No,Yes,No,Yes,PTSD,Yes,3,5,7,0,No,Yes,10
+53,Middle_aged,Male,2,33,Phobia,98,Yes,Yes,Yes,Yes,No,Depression,No,4,2,5,6,No,Yes,10
+57,Middle_aged,Male,7,24,PTSD,81,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,1,3,7,6,No,Yes,4
+21,Youth_adult,Male,0,33,PTSD,89,Yes,Yes,Yes,Yes,No,Depression,No,2,0,5,3,No,Yes,6
+19,Teenager,Male,9,28,PTSD,129,Yes,No,Yes,No,Yes,PTSD,Yes,0,6,6,0,No,Yes,8
+23,Youth_adult,Male,3,22,Stress,91,Yes,No,No,Yes,No,PTSD,No,1,3,7,2,No,No,4
+59,Middle_aged,Female,2,14,PTSD,149,Yes,No,Yes,No,No,Depression,Yes,0,0,4,4,No,No,9
+21,Youth_adult,Male,5,12,Stress,101,No,Yes,Yes,No,Yes,PTSD,No,1,2,6,1,Yes,Yes,8
+46,Middle_aged,Female,6,30,PTSD,111,Yes,Yes,Yes,No,Yes,PTSD,No,2,4,4,6,No,No,10
+35,Middle_aged,Female,3,33,Social Anxiety,80,No,Yes,No,Yes,No,Depression,Yes,0,6,6,9,No,No,10
+43,Middle_aged,Male,6,14,Social Anxiety,133,No,Yes,No,No,No,Depression,No,2,0,7,9,No,Yes,6
+61,Senior_citizen,Male,8,21,Caffeine,137,Yes,Yes,Yes,No,Yes,Depression,Yes,0,0,4,6,No,Yes,7
+51,Middle_aged,Male,1,6,PTSD,149,Yes,No,No,No,No,PTSD,No,1,0,8,9,No,No,8
+27,Youth_adult,Female,2,10,PTSD,97,Yes,Yes,Yes,No,No,Anxiety,No,4,2,6,4,No,No,2
+53,Middle_aged,Male,4,9,Phobia,85,No,Yes,Yes,Yes,Yes,Anxiety,Yes,4,3,8,9,Yes,No,5
+31,Middle_aged,Female,2,32,Caffeine,124,No,Yes,Yes,No,Yes,Anxiety,Yes,3,2,4,5,Yes,No,7
+48,Middle_aged,Male,7,9,PTSD,102,Yes,No,Yes,Yes,No,Depression,Yes,3,0,8,0,Yes,Yes,8
+32,Middle_aged,Female,9,22,Social Anxiety,102,No,Yes,Yes,Yes,No,PTSD,No,5,5,4,3,No,Yes,5
+25,Youth_adult,Male,7,30,PTSD,105,Yes,No,No,Yes,No,Anxiety,No,2,0,6,3,Yes,Yes,3
+31,Middle_aged,Male,7,24,Caffeine,156,No,No,Yes,No,No,Depression,No,0,5,8,7,Yes,Yes,6
+40,Middle_aged,Non-binary,8,31,PTSD,86,No,Yes,No,No,Yes,Anxiety,Yes,3,4,5,1,Yes,Yes,5
+57,Middle_aged,Female,3,16,Social Anxiety,158,Yes,No,Yes,Yes,Yes,Anxiety,Yes,1,2,4,0,No,Yes,8
+38,Middle_aged,Male,4,11,Caffeine,123,Yes,Yes,Yes,No,Yes,Anxiety,No,4,5,8,6,No,Yes,9
+33,Middle_aged,Female,4,7,Social Anxiety,106,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,0,2,7,5,Yes,Yes,9
+62,Senior_citizen,Female,7,14,Stress,105,Yes,No,No,No,No,Anxiety,No,5,1,6,4,No,Yes,6
+35,Middle_aged,Female,6,38,Social Anxiety,158,No,No,Yes,Yes,No,Anxiety,Yes,4,3,4,7,No,Yes,4
+64,Senior_citizen,Female,8,29,PTSD,115,Yes,Yes,No,Yes,Yes,Anxiety,Yes,0,1,7,1,Yes,Yes,4
+41,Middle_aged,Male,7,39,Phobia,134,Yes,Yes,Yes,No,Yes,Anxiety,No,3,5,4,1,No,Yes,9
+43,Middle_aged,Male,1,20,Social Anxiety,143,Yes,Yes,Yes,Yes,No,PTSD,No,3,1,8,8,No,No,4
+42,Middle_aged,Male,9,6,PTSD,136,No,Yes,Yes,No,No,Anxiety,No,2,6,7,0,Yes,No,8
+62,Senior_citizen,Female,3,28,Phobia,148,Yes,Yes,Yes,Yes,No,Anxiety,Yes,5,3,7,5,Yes,Yes,9
+58,Middle_aged,Female,5,14,Stress,140,Yes,Yes,Yes,No,No,Anxiety,Yes,0,5,5,2,No,Yes,5
+46,Middle_aged,Male,1,42,Caffeine,81,Yes,Yes,Yes,Yes,No,Anxiety,No,5,4,8,4,No,No,6
+32,Middle_aged,Male,6,26,Caffeine,134,No,No,No,No,No,Anxiety,No,1,4,6,7,Yes,No,3
+62,Senior_citizen,Female,2,30,Phobia,159,No,Yes,Yes,No,Yes,Anxiety,No,5,3,8,6,No,No,5
+18,Teenager,Non-binary,2,43,Caffeine,117,Yes,Yes,No,Yes,Yes,Anxiety,Yes,3,3,5,3,No,Yes,5
+42,Middle_aged,Female,1,31,Social Anxiety,159,Yes,Yes,Yes,No,Yes,Anxiety,No,2,5,7,7,No,No,2
+24,Youth_adult,Male,7,33,Phobia,157,Yes,No,No,Yes,No,Depression,No,3,2,6,9,Yes,No,10
+26,Youth_adult,Male,5,42,PTSD,108,Yes,Yes,No,No,No,Depression,No,4,6,4,1,No,No,6
+41,Middle_aged,Male,0,24,Social Anxiety,105,Yes,Yes,Yes,Yes,No,Anxiety,No,3,5,6,6,No,Yes,9
+18,Teenager,Non-binary,0,31,Social Anxiety,114,No,Yes,Yes,No,Yes,PTSD,No,0,2,4,4,No,No,7
+61,Senior_citizen,Male,6,24,Social Anxiety,158,Yes,No,No,No,Yes,Anxiety,No,2,2,5,5,No,No,8
+25,Youth_adult,Female,7,23,PTSD,146,No,Yes,No,No,Yes,Anxiety,No,0,2,5,2,No,No,2
+41,Middle_aged,Male,4,24,Stress,108,Yes,No,Yes,No,Yes,Depression,No,1,5,6,9,No,Yes,9
+28,Youth_adult,Female,4,39,PTSD,113,No,No,Yes,No,No,Depression,No,1,0,7,6,No,No,3
+34,Middle_aged,Female,3,6,Caffeine,120,No,No,No,No,No,PTSD,No,3,0,6,6,No,Yes,10
+25,Youth_adult,Female,5,34,Phobia,120,Yes,No,Yes,No,No,PTSD,No,2,4,4,1,No,Yes,5
+52,Middle_aged,Male,5,38,Stress,102,Yes,Yes,No,No,No,Anxiety,Yes,5,0,7,0,Yes,No,7
+52,Middle_aged,Male,2,26,Phobia,150,Yes,Yes,Yes,Yes,No,Anxiety,Yes,2,0,8,9,No,Yes,4
+50,Middle_aged,Male,8,7,Caffeine,82,Yes,No,Yes,No,No,Anxiety,Yes,2,2,5,1,Yes,No,7
+22,Youth_adult,Non-binary,6,10,PTSD,137,Yes,Yes,No,No,Yes,Anxiety,Yes,2,2,4,7,No,No,8
+59,Middle_aged,Female,0,19,Social Anxiety,111,Yes,Yes,No,No,No,Anxiety,Yes,3,3,6,9,No,Yes,10
+56,Middle_aged,Female,6,31,Social Anxiety,110,No,No,Yes,No,No,Depression,Yes,0,2,7,2,No,No,10
+58,Middle_aged,Female,4,14,PTSD,122,Yes,Yes,Yes,Yes,No,PTSD,Yes,3,5,7,3,Yes,No,4
+45,Middle_aged,Female,4,13,Stress,86,No,Yes,No,No,Yes,PTSD,No,5,3,7,7,No,Yes,5
+24,Youth_adult,Male,1,37,Stress,80,Yes,Yes,No,Yes,Yes,Anxiety,Yes,0,6,4,2,No,No,3
+26,Youth_adult,Non-binary,3,36,Phobia,140,No,Yes,Yes,Yes,Yes,Depression,Yes,5,3,8,5,Yes,Yes,5
+25,Youth_adult,Male,5,10,PTSD,93,Yes,No,No,Yes,No,Anxiety,No,4,0,6,1,No,Yes,8
+29,Youth_adult,Male,9,40,Stress,131,No,Yes,No,No,Yes,Depression,No,4,2,5,2,No,Yes,3
+51,Middle_aged,Female,6,6,PTSD,85,Yes,Yes,No,Yes,No,PTSD,No,0,0,4,0,No,Yes,5
+50,Middle_aged,Male,4,33,Caffeine,89,Yes,Yes,No,Yes,No,Anxiety,No,3,2,6,8,No,Yes,10
+40,Middle_aged,Male,8,8,Social Anxiety,150,Yes,No,Yes,No,Yes,Anxiety,No,5,0,7,3,No,No,1
+41,Middle_aged,Female,2,5,Social Anxiety,109,Yes,No,No,Yes,No,Anxiety,No,5,6,7,5,No,No,2
+54,Middle_aged,Male,0,23,Social Anxiety,100,Yes,Yes,No,Yes,No,Depression,No,1,0,8,6,Yes,No,3
+52,Middle_aged,Female,3,30,PTSD,139,Yes,No,Yes,Yes,Yes,PTSD,No,5,0,4,1,Yes,Yes,1
+61,Senior_citizen,Male,8,29,PTSD,153,Yes,Yes,Yes,Yes,No,Depression,No,3,5,8,7,No,No,9
+57,Middle_aged,Male,3,14,Phobia,142,No,No,Yes,No,Yes,Anxiety,No,1,6,7,8,No,Yes,9
+39,Middle_aged,Male,1,19,Social Anxiety,121,Yes,Yes,No,Yes,Yes,Anxiety,No,3,4,6,9,Yes,Yes,5
+44,Middle_aged,Male,9,26,Phobia,130,Yes,No,Yes,No,No,Anxiety,Yes,2,6,8,1,Yes,Yes,4
+52,Middle_aged,Female,4,25,Social Anxiety,143,No,Yes,No,No,No,PTSD,No,5,0,7,4,No,Yes,5
+18,Teenager,Male,2,26,Phobia,155,Yes,Yes,No,Yes,No,Anxiety,No,2,1,5,1,No,Yes,4
+52,Middle_aged,Female,8,40,Phobia,135,Yes,Yes,No,Yes,No,Anxiety,No,4,1,8,4,Yes,No,5
+54,Middle_aged,Female,3,38,Caffeine,159,Yes,No,No,No,No,Anxiety,No,4,1,7,6,No,No,7
+64,Senior_citizen,Female,5,34,Phobia,120,No,Yes,No,No,No,PTSD,No,0,5,7,5,Yes,Yes,8
+31,Middle_aged,Non-binary,1,29,PTSD,111,No,No,Yes,Yes,No,PTSD,No,5,3,8,3,No,Yes,2
+20,Youth_adult,Female,5,32,Phobia,94,No,Yes,No,Yes,No,PTSD,No,1,0,6,1,No,Yes,4
+18,Teenager,Male,2,5,Social Anxiety,141,Yes,Yes,Yes,No,Yes,Depression,Yes,2,6,7,6,No,No,8
+22,Youth_adult,Male,8,8,Phobia,106,No,Yes,No,Yes,No,Anxiety,No,3,1,7,9,No,No,7
+43,Middle_aged,Male,1,11,Stress,107,Yes,No,Yes,Yes,Yes,Depression,Yes,5,5,6,8,No,No,9
+31,Middle_aged,Female,8,13,PTSD,143,Yes,Yes,No,No,No,Anxiety,Yes,0,3,4,0,Yes,No,5
+56,Middle_aged,Male,4,40,Social Anxiety,138,Yes,No,No,No,Yes,PTSD,No,3,1,7,2,Yes,Yes,6
+44,Middle_aged,Female,7,23,Stress,137,Yes,No,No,Yes,No,PTSD,Yes,2,2,4,6,No,No,8
+26,Youth_adult,Female,1,5,Social Anxiety,81,Yes,No,Yes,No,Yes,Anxiety,No,5,4,7,8,No,Yes,5
+32,Middle_aged,Male,5,14,PTSD,115,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,2,0,8,4,No,Yes,9
+32,Middle_aged,Female,2,40,PTSD,150,Yes,No,No,No,No,PTSD,Yes,5,4,5,6,No,No,4
+43,Middle_aged,Male,9,13,PTSD,92,Yes,No,Yes,No,Yes,Anxiety,No,5,4,4,9,No,Yes,8
+59,Middle_aged,Male,4,36,PTSD,94,No,Yes,No,No,No,PTSD,Yes,2,2,5,6,Yes,No,3
+30,Youth_adult,Female,7,36,PTSD,139,Yes,No,Yes,No,Yes,Anxiety,No,2,2,6,3,No,Yes,5
+49,Middle_aged,Female,9,10,PTSD,101,No,Yes,No,No,Yes,Anxiety,No,3,2,8,4,No,No,8
+56,Middle_aged,Female,0,42,Stress,142,Yes,Yes,Yes,No,Yes,Anxiety,No,0,3,6,1,No,Yes,10
+49,Middle_aged,Male,4,21,Caffeine,154,No,Yes,No,No,No,Depression,No,2,1,4,7,No,Yes,7
+21,Youth_adult,Male,2,14,Social Anxiety,153,Yes,Yes,No,Yes,Yes,Depression,No,4,6,7,0,No,No,1
+47,Middle_aged,Female,3,31,PTSD,104,Yes,Yes,Yes,No,No,Anxiety,No,0,0,7,1,No,No,4
+54,Middle_aged,Female,1,39,Social Anxiety,127,Yes,Yes,Yes,No,Yes,Anxiety,No,4,2,6,2,No,No,2
+40,Middle_aged,Female,8,25,Stress,122,Yes,No,Yes,No,Yes,Anxiety,Yes,3,5,7,6,No,No,2
+56,Middle_aged,Male,2,29,Caffeine,117,No,Yes,No,Yes,Yes,Depression,No,2,0,5,5,No,No,7
+62,Senior_citizen,Female,1,32,Stress,120,Yes,Yes,No,No,Yes,PTSD,No,0,6,7,6,No,No,3
+32,Middle_aged,Male,9,19,PTSD,124,Yes,Yes,No,No,No,Anxiety,No,2,0,5,4,No,Yes,3
+60,Middle_aged,Male,8,8,Social Anxiety,119,No,Yes,No,No,No,PTSD,No,5,0,5,3,No,Yes,6
+46,Middle_aged,Non-binary,6,33,Caffeine,96,Yes,No,Yes,No,No,Depression,No,2,2,8,6,No,Yes,6
+53,Middle_aged,Male,5,13,PTSD,136,Yes,Yes,Yes,Yes,Yes,Depression,No,0,2,6,2,No,No,1
+30,Youth_adult,Non-binary,0,31,Caffeine,81,Yes,No,Yes,Yes,Yes,PTSD,No,2,1,5,9,No,Yes,1
+49,Middle_aged,Male,4,30,PTSD,141,Yes,Yes,Yes,Yes,Yes,Depression,Yes,2,6,8,6,Yes,No,6
+24,Youth_adult,Male,2,23,Stress,88,Yes,No,No,Yes,No,Anxiety,Yes,1,2,7,1,No,No,7
+39,Middle_aged,Female,0,32,PTSD,147,Yes,Yes,No,No,Yes,Anxiety,No,1,2,5,7,No,No,9
+45,Middle_aged,Female,3,21,Social Anxiety,96,No,Yes,Yes,No,No,Anxiety,No,0,0,7,5,Yes,Yes,4
+19,Teenager,Female,1,24,Phobia,129,Yes,No,No,No,Yes,PTSD,Yes,0,1,8,2,No,Yes,10
+59,Middle_aged,Female,1,44,Phobia,119,Yes,Yes,No,No,Yes,Anxiety,Yes,5,4,7,2,No,No,6
+62,Senior_citizen,Female,2,43,Stress,137,Yes,No,Yes,Yes,Yes,Anxiety,Yes,5,2,5,4,No,Yes,3
+23,Youth_adult,Female,7,27,Social Anxiety,154,No,No,Yes,Yes,Yes,Anxiety,No,2,5,7,2,No,Yes,4
+45,Middle_aged,Female,7,36,Social Anxiety,100,No,Yes,Yes,Yes,No,Depression,No,4,2,7,5,No,Yes,9
+45,Middle_aged,Male,6,37,Stress,97,Yes,Yes,No,Yes,Yes,Anxiety,No,0,4,8,1,Yes,Yes,1
+61,Senior_citizen,Female,5,9,Social Anxiety,134,No,Yes,No,No,No,Depression,Yes,2,0,4,7,No,Yes,5
+61,Senior_citizen,Male,8,38,PTSD,108,Yes,No,No,Yes,Yes,Anxiety,Yes,4,6,7,8,Yes,No,7
+37,Middle_aged,Non-binary,3,44,Stress,103,Yes,No,Yes,Yes,No,Anxiety,Yes,1,1,4,6,Yes,Yes,3
+47,Middle_aged,Non-binary,0,15,PTSD,153,Yes,Yes,Yes,Yes,Yes,Depression,Yes,5,0,7,2,No,No,2
+28,Youth_adult,Male,7,7,Social Anxiety,96,Yes,Yes,No,No,No,Anxiety,No,0,6,8,9,No,Yes,2
+45,Middle_aged,Female,6,37,Stress,97,Yes,Yes,No,No,No,Anxiety,No,2,3,4,3,No,No,1
+42,Middle_aged,Non-binary,6,15,Social Anxiety,121,No,No,No,No,No,Anxiety,Yes,1,2,5,9,No,No,5
+56,Middle_aged,Male,2,20,Stress,124,Yes,Yes,No,No,Yes,PTSD,Yes,3,6,6,1,No,Yes,3
+50,Middle_aged,Female,3,22,Social Anxiety,96,No,Yes,Yes,No,No,Depression,Yes,1,5,7,8,No,Yes,7
+18,Teenager,Non-binary,9,34,PTSD,152,Yes,No,No,Yes,Yes,Anxiety,No,2,6,5,4,No,Yes,1
+44,Middle_aged,Male,8,14,PTSD,93,Yes,Yes,No,No,Yes,Anxiety,Yes,5,3,7,1,Yes,No,9
+30,Youth_adult,Female,5,22,Social Anxiety,128,Yes,Yes,Yes,No,Yes,Anxiety,Yes,4,2,8,9,Yes,No,2
+58,Middle_aged,Male,4,42,Stress,108,Yes,No,No,No,Yes,Depression,Yes,3,3,7,5,No,No,8
+20,Youth_adult,Non-binary,2,23,Phobia,83,Yes,No,Yes,No,No,Depression,No,3,4,7,6,Yes,Yes,10
+56,Middle_aged,Non-binary,8,40,PTSD,99,Yes,Yes,Yes,Yes,Yes,PTSD,No,5,2,5,1,No,Yes,4
+23,Youth_adult,Non-binary,4,17,PTSD,126,Yes,Yes,Yes,No,No,PTSD,No,3,5,8,0,No,Yes,6
+25,Youth_adult,Female,4,7,PTSD,88,Yes,Yes,Yes,Yes,No,PTSD,Yes,0,2,5,6,Yes,Yes,9
+44,Middle_aged,Female,3,14,Phobia,156,No,Yes,Yes,No,No,Depression,No,2,3,5,0,No,No,7
+26,Youth_adult,Female,3,42,Social Anxiety,158,Yes,No,Yes,Yes,No,Depression,No,3,1,5,2,Yes,Yes,8
+54,Middle_aged,Male,0,5,Stress,106,Yes,Yes,No,Yes,Yes,Anxiety,Yes,1,3,7,3,No,No,7
+50,Middle_aged,Female,6,31,PTSD,94,Yes,No,Yes,No,No,Anxiety,Yes,4,2,8,1,No,No,2
+59,Middle_aged,Male,8,12,Social Anxiety,98,No,No,Yes,No,Yes,Depression,No,2,2,4,6,No,No,9
+61,Senior_citizen,Female,2,21,Caffeine,131,No,Yes,Yes,Yes,No,Anxiety,Yes,5,6,8,4,Yes,Yes,1
+41,Middle_aged,Male,1,13,PTSD,105,Yes,Yes,No,No,No,Anxiety,No,1,1,8,0,No,No,2
+32,Middle_aged,Male,2,10,Caffeine,105,Yes,Yes,Yes,No,No,Anxiety,No,0,0,6,7,Yes,No,3
+49,Middle_aged,Male,0,29,PTSD,105,Yes,No,Yes,Yes,Yes,Anxiety,No,3,1,7,9,No,No,3
+49,Middle_aged,Female,5,43,PTSD,125,No,No,No,No,Yes,PTSD,Yes,1,0,4,6,No,No,10
+41,Middle_aged,Male,6,32,Caffeine,128,Yes,Yes,No,No,Yes,Anxiety,No,2,5,4,3,No,No,4
+58,Middle_aged,Female,1,37,Caffeine,132,Yes,No,No,No,Yes,Anxiety,No,1,2,8,1,No,No,5
+29,Youth_adult,Male,7,41,Social Anxiety,82,Yes,Yes,Yes,Yes,Yes,PTSD,Yes,0,6,6,6,No,Yes,6
+56,Middle_aged,Male,5,13,PTSD,145,Yes,No,Yes,Yes,No,PTSD,No,4,4,5,1,Yes,No,1
+19,Teenager,Female,3,22,PTSD,121,No,Yes,No,No,Yes,Anxiety,Yes,3,4,7,5,Yes,No,8
+20,Youth_adult,Female,4,25,Caffeine,98,Yes,Yes,Yes,No,No,Anxiety,Yes,2,3,8,0,No,No,6
+54,Middle_aged,Male,7,6,Social Anxiety,96,Yes,No,Yes,No,No,Anxiety,No,3,1,7,6,Yes,No,10
+34,Middle_aged,Female,2,42,PTSD,112,Yes,Yes,Yes,Yes,No,Anxiety,Yes,3,1,5,6,No,Yes,9
+19,Teenager,Female,2,44,Social Anxiety,155,No,Yes,No,No,Yes,PTSD,Yes,5,4,6,3,No,No,5
+19,Teenager,Female,3,40,Social Anxiety,128,No,Yes,Yes,No,Yes,Anxiety,Yes,3,0,7,3,No,No,7
+45,Middle_aged,Male,0,41,PTSD,135,Yes,Yes,No,Yes,Yes,Anxiety,No,1,1,4,9,No,Yes,4
+40,Middle_aged,Male,8,19,PTSD,142,Yes,Yes,No,No,Yes,Depression,No,1,0,5,4,No,Yes,6
+54,Middle_aged,Female,7,32,PTSD,82,No,No,Yes,No,No,Anxiety,Yes,4,0,6,1,No,No,6
+49,Middle_aged,Male,7,22,PTSD,128,Yes,Yes,No,Yes,Yes,Depression,No,0,0,7,8,No,Yes,4
+50,Middle_aged,Female,9,38,Caffeine,134,Yes,Yes,No,No,No,Depression,Yes,2,0,5,9,No,Yes,6
+18,Teenager,Female,5,26,PTSD,105,Yes,No,No,Yes,No,Anxiety,No,1,6,5,3,No,Yes,8
+36,Middle_aged,Non-binary,6,15,PTSD,151,No,Yes,Yes,No,No,Anxiety,No,3,3,4,8,No,No,5
+19,Teenager,Female,5,17,PTSD,131,Yes,Yes,No,No,Yes,Anxiety,No,0,3,4,2,No,Yes,2
+61,Senior_citizen,Non-binary,8,8,Caffeine,86,No,No,Yes,No,Yes,Anxiety,No,2,6,5,8,No,Yes,9
+43,Middle_aged,Male,2,26,PTSD,125,Yes,No,No,No,No,PTSD,No,2,4,6,0,Yes,No,4
+49,Middle_aged,Female,2,11,Stress,125,Yes,No,Yes,No,Yes,Depression,Yes,2,3,6,6,No,No,4
+23,Youth_adult,Male,2,28,Stress,95,Yes,No,Yes,Yes,Yes,Anxiety,No,2,5,6,3,No,No,7
+49,Middle_aged,Female,9,8,Caffeine,103,Yes,Yes,No,No,Yes,Depression,Yes,4,6,6,6,No,Yes,10
+21,Youth_adult,Female,2,32,PTSD,140,Yes,No,No,Yes,Yes,Anxiety,No,2,1,5,9,Yes,No,10
+28,Youth_adult,Female,8,19,PTSD,133,Yes,Yes,No,Yes,No,Anxiety,Yes,0,5,6,5,No,Yes,6
+34,Middle_aged,Non-binary,3,5,Social Anxiety,141,Yes,No,Yes,Yes,Yes,Anxiety,Yes,1,6,4,3,No,No,4
+55,Middle_aged,Female,6,7,PTSD,80,No,Yes,Yes,No,No,PTSD,Yes,0,3,4,3,No,No,6
+41,Middle_aged,Male,8,18,Phobia,128,No,No,No,Yes,Yes,Anxiety,Yes,3,1,5,7,No,Yes,3
+22,Youth_adult,Male,6,42,Caffeine,104,Yes,No,No,Yes,No,PTSD,No,5,1,9,6,Yes,No,7
+51,Middle_aged,Female,8,5,Phobia,89,Yes,No,No,Yes,No,Anxiety,No,4,0,5,3,No,Yes,6
+23,Youth_adult,Male,2,42,Phobia,159,Yes,Yes,Yes,Yes,No,Anxiety,No,4,4,8,5,No,No,3
+39,Middle_aged,Male,3,42,Caffeine,95,Yes,Yes,Yes,No,Yes,Depression,No,3,0,6,5,No,Yes,1
+28,Youth_adult,Male,7,25,PTSD,137,No,No,No,No,Yes,PTSD,No,0,6,6,0,No,No,10
+33,Middle_aged,Male,5,33,Caffeine,151,Yes,No,No,Yes,Yes,Anxiety,Yes,0,0,8,1,Yes,Yes,5
+50,Middle_aged,Male,4,9,Phobia,108,Yes,Yes,Yes,No,No,Anxiety,Yes,3,5,4,3,No,Yes,10
+26,Youth_adult,Male,3,14,PTSD,85,No,No,No,No,No,Anxiety,Yes,5,3,4,5,Yes,No,2
+23,Youth_adult,Male,7,32,PTSD,95,Yes,No,No,No,No,Depression,Yes,2,5,8,5,No,No,7
+33,Middle_aged,Male,0,25,PTSD,99,Yes,Yes,Yes,No,Yes,PTSD,Yes,2,3,6,0,No,No,7
+46,Middle_aged,Non-binary,8,11,PTSD,159,Yes,No,Yes,No,No,PTSD,Yes,1,5,4,7,No,Yes,4
+20,Youth_adult,Male,0,7,Stress,150,Yes,Yes,Yes,Yes,Yes,Depression,Yes,0,1,4,1,No,Yes,6
+37,Middle_aged,Male,7,24,Caffeine,157,Yes,Yes,No,No,No,Anxiety,Yes,0,3,8,4,No,No,1
+53,Middle_aged,Female,3,23,PTSD,122,No,Yes,Yes,No,Yes,Depression,No,3,3,8,3,No,Yes,2
+36,Middle_aged,Male,8,39,Caffeine,105,No,Yes,Yes,No,No,Anxiety,Yes,3,5,6,4,No,Yes,6
+43,Middle_aged,Non-binary,4,8,PTSD,157,Yes,No,No,No,Yes,Anxiety,No,2,2,4,4,No,No,2
+20,Youth_adult,Female,2,9,PTSD,150,No,Yes,Yes,Yes,Yes,PTSD,No,0,1,8,9,No,Yes,4
+36,Middle_aged,Male,8,5,Stress,112,Yes,No,Yes,No,No,Anxiety,No,0,6,5,7,No,Yes,4
+37,Middle_aged,Male,8,8,Stress,105,No,No,Yes,No,Yes,Anxiety,Yes,4,1,6,9,No,Yes,10
+49,Middle_aged,Female,3,16,PTSD,124,Yes,No,No,Yes,No,Depression,Yes,1,6,7,6,Yes,No,9
+24,Youth_adult,Non-binary,3,31,PTSD,142,No,Yes,No,Yes,No,Depression,Yes,1,2,5,8,No,No,10
+58,Middle_aged,Female,7,27,Social Anxiety,146,No,No,Yes,No,No,PTSD,Yes,2,5,7,0,No,Yes,7
+50,Middle_aged,Female,1,29,Caffeine,131,Yes,Yes,No,No,Yes,Anxiety,Yes,5,5,8,5,No,No,7
+57,Middle_aged,Male,8,25,Caffeine,147,No,Yes,No,No,Yes,Anxiety,No,0,1,8,5,No,Yes,1
+56,Middle_aged,Non-binary,5,28,Phobia,105,No,Yes,Yes,No,No,PTSD,No,4,5,5,1,No,No,5
+35,Middle_aged,Male,8,29,PTSD,154,No,Yes,Yes,No,Yes,Anxiety,No,0,4,5,7,No,No,3
+57,Middle_aged,Non-binary,7,36,Phobia,81,Yes,No,Yes,Yes,No,Anxiety,No,3,4,5,5,No,No,3
+18,Teenager,Female,6,36,PTSD,93,No,Yes,Yes,Yes,Yes,Anxiety,Yes,2,6,5,9,No,Yes,6
+28,Youth_adult,Female,0,9,Phobia,109,No,No,No,Yes,Yes,Depression,No,5,2,6,8,No,No,4
+45,Middle_aged,Female,2,40,Stress,128,Yes,Yes,No,Yes,Yes,Anxiety,Yes,1,3,6,9,Yes,No,8
+42,Middle_aged,Male,1,43,Caffeine,91,No,Yes,Yes,Yes,Yes,PTSD,No,0,4,4,4,No,No,4
+40,Middle_aged,Male,4,20,Phobia,123,Yes,No,Yes,No,Yes,Depression,No,5,6,4,6,No,No,8
+48,Middle_aged,Male,4,37,Stress,112,Yes,No,Yes,No,No,Anxiety,No,2,5,5,5,No,No,4
+47,Middle_aged,Male,4,25,PTSD,92,Yes,Yes,No,Yes,No,Depression,Yes,1,2,6,4,Yes,Yes,3
+59,Middle_aged,Female,3,13,Phobia,157,Yes,Yes,Yes,Yes,Yes,Anxiety,No,0,6,7,5,Yes,No,5
+52,Middle_aged,Male,4,10,PTSD,105,Yes,Yes,No,Yes,No,Anxiety,Yes,4,6,6,3,No,No,5
+24,Youth_adult,Male,2,39,PTSD,100,Yes,Yes,Yes,No,No,Anxiety,Yes,2,4,7,2,Yes,No,10
+33,Middle_aged,Non-binary,0,43,PTSD,107,No,No,No,Yes,No,Depression,Yes,0,0,7,0,No,Yes,10
+43,Middle_aged,Female,4,26,Caffeine,127,Yes,No,No,Yes,No,Anxiety,Yes,1,2,6,0,No,Yes,1
+19,Teenager,Non-binary,8,9,Phobia,119,Yes,Yes,Yes,No,No,Anxiety,No,1,1,4,5,No,Yes,8
+18,Teenager,Non-binary,8,27,PTSD,145,Yes,No,Yes,No,Yes,Depression,No,4,6,6,8,Yes,Yes,8
+29,Youth_adult,Male,3,21,Phobia,152,Yes,Yes,No,Yes,Yes,Anxiety,Yes,2,4,5,7,No,Yes,8
+22,Youth_adult,Male,2,16,Caffeine,158,No,Yes,Yes,No,Yes,Anxiety,No,2,1,4,1,No,No,10
+54,Middle_aged,Female,0,27,Stress,156,Yes,Yes,No,Yes,No,PTSD,No,5,2,8,8,No,Yes,4
+49,Middle_aged,Female,1,20,Caffeine,102,No,No,Yes,No,Yes,Anxiety,No,0,4,5,7,No,Yes,9
+26,Youth_adult,Male,7,7,PTSD,127,Yes,Yes,No,No,No,Anxiety,No,5,1,7,8,No,Yes,10
+58,Middle_aged,Female,0,34,Stress,81,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,1,3,6,3,Yes,Yes,3
+52,Middle_aged,Male,7,26,PTSD,99,Yes,Yes,No,No,No,Anxiety,Yes,1,6,4,8,No,No,7
+36,Middle_aged,Male,6,13,Social Anxiety,138,Yes,Yes,No,Yes,Yes,Anxiety,No,4,3,4,1,No,Yes,6
+33,Middle_aged,Female,7,33,Caffeine,125,Yes,No,No,Yes,Yes,Anxiety,No,4,0,7,0,No,Yes,9
+20,Youth_adult,Female,5,41,Caffeine,82,Yes,Yes,No,Yes,Yes,Anxiety,No,2,5,5,8,No,No,4
+37,Middle_aged,Female,8,27,PTSD,134,Yes,Yes,No,No,Yes,PTSD,No,5,2,5,9,No,No,4
+41,Middle_aged,Male,2,17,Phobia,91,No,No,Yes,Yes,Yes,Anxiety,No,1,5,8,7,Yes,Yes,6
+50,Middle_aged,Female,9,36,Stress,119,Yes,No,No,Yes,No,Anxiety,Yes,0,5,6,6,No,No,8
+41,Middle_aged,Male,3,27,Stress,145,Yes,No,No,Yes,Yes,Anxiety,Yes,3,1,4,7,No,No,3
+28,Youth_adult,Male,5,21,PTSD,157,Yes,Yes,Yes,Yes,Yes,Depression,Yes,0,0,5,0,No,No,8
+25,Youth_adult,Female,7,44,PTSD,95,Yes,Yes,No,No,No,Anxiety,No,4,2,6,8,No,Yes,8
+53,Middle_aged,Non-binary,4,25,Phobia,113,No,Yes,No,Yes,Yes,Anxiety,No,0,3,5,9,No,No,7
+55,Middle_aged,Female,2,6,PTSD,123,Yes,Yes,No,Yes,No,PTSD,No,1,5,4,8,No,Yes,7
+57,Middle_aged,Female,5,41,Phobia,85,Yes,No,Yes,No,No,Depression,No,5,1,6,8,No,Yes,5
+37,Middle_aged,Female,3,10,Caffeine,156,No,Yes,Yes,No,Yes,Anxiety,No,2,5,4,5,Yes,Yes,2
+52,Middle_aged,Female,8,22,PTSD,143,Yes,Yes,Yes,No,Yes,Depression,No,5,4,7,3,No,Yes,2
+42,Middle_aged,Male,2,34,Social Anxiety,101,Yes,Yes,Yes,No,Yes,PTSD,No,3,3,7,1,No,No,10
+52,Middle_aged,Male,3,26,Phobia,97,Yes,Yes,No,Yes,No,Depression,Yes,2,5,4,3,No,No,8
+42,Middle_aged,Male,6,37,PTSD,91,Yes,No,Yes,No,No,Anxiety,No,3,4,5,6,Yes,Yes,6
+46,Middle_aged,Male,6,34,PTSD,131,No,Yes,Yes,No,No,Anxiety,No,3,4,6,0,No,Yes,8
+35,Middle_aged,Female,3,21,Phobia,130,No,Yes,No,Yes,No,Anxiety,Yes,1,1,6,8,No,Yes,3
+63,Senior_citizen,Female,5,36,Stress,150,No,Yes,Yes,No,Yes,PTSD,Yes,1,1,5,2,No,No,1
+35,Middle_aged,Male,2,18,Social Anxiety,127,Yes,Yes,Yes,Yes,No,PTSD,No,4,4,5,3,No,No,6
+19,Teenager,Male,5,14,Caffeine,98,Yes,Yes,Yes,No,No,Anxiety,Yes,4,0,8,4,No,No,2
+52,Middle_aged,Female,1,40,Stress,85,No,No,Yes,No,No,Depression,No,3,5,4,2,No,No,9
+33,Middle_aged,Male,7,38,Stress,106,Yes,Yes,No,No,No,Anxiety,Yes,5,4,8,3,No,No,5
+58,Middle_aged,Female,1,13,Social Anxiety,132,Yes,No,No,No,No,PTSD,No,4,4,4,4,No,No,5
+53,Middle_aged,Female,6,32,Caffeine,127,Yes,No,No,No,Yes,Anxiety,No,1,1,5,0,Yes,Yes,10
+50,Middle_aged,Female,8,15,PTSD,86,Yes,No,Yes,Yes,Yes,Anxiety,Yes,4,5,6,8,No,No,8
+21,Youth_adult,Female,0,18,PTSD,138,Yes,No,No,No,Yes,Depression,No,3,2,4,9,Yes,No,6
+50,Middle_aged,Female,7,43,Caffeine,148,No,Yes,Yes,Yes,Yes,Depression,No,2,3,4,9,No,No,3
+31,Middle_aged,Male,6,23,Phobia,90,No,Yes,Yes,Yes,No,PTSD,No,5,1,5,3,No,No,9
+38,Middle_aged,Female,5,19,Stress,94,Yes,Yes,Yes,No,Yes,Anxiety,No,5,5,8,8,Yes,No,10
+37,Middle_aged,Female,5,32,Phobia,143,Yes,No,Yes,Yes,No,Depression,No,0,5,5,3,No,No,4
+25,Youth_adult,Male,5,28,PTSD,82,Yes,No,Yes,Yes,No,Anxiety,Yes,4,6,6,0,No,No,10
+24,Youth_adult,Female,8,12,Phobia,148,No,No,Yes,No,Yes,PTSD,No,5,0,7,4,No,Yes,4
+20,Youth_adult,Female,1,13,Caffeine,102,Yes,Yes,No,No,No,Depression,No,1,3,7,8,Yes,Yes,2
+34,Middle_aged,Female,0,37,Phobia,132,No,No,Yes,Yes,No,Depression,Yes,2,1,7,2,No,No,3
+50,Middle_aged,Female,5,37,PTSD,116,Yes,Yes,Yes,Yes,No,Anxiety,Yes,1,1,5,4,Yes,Yes,4
+29,Youth_adult,Female,9,23,PTSD,88,Yes,Yes,Yes,Yes,Yes,Depression,Yes,4,2,4,2,Yes,No,7
+39,Middle_aged,Female,7,7,PTSD,94,Yes,Yes,No,No,Yes,Anxiety,No,3,6,5,2,Yes,No,3
+39,Middle_aged,Female,2,14,Caffeine,82,No,Yes,Yes,Yes,Yes,PTSD,No,0,6,5,0,No,No,8
+63,Senior_citizen,Female,9,44,PTSD,149,Yes,Yes,No,No,Yes,Depression,Yes,0,0,4,1,Yes,No,8
+47,Middle_aged,Female,0,5,Stress,96,Yes,Yes,No,Yes,No,PTSD,No,2,6,4,1,Yes,Yes,10
+55,Middle_aged,Female,8,33,PTSD,105,Yes,Yes,Yes,Yes,No,Depression,No,5,0,8,8,No,No,2
+55,Middle_aged,Female,0,38,Phobia,100,No,No,Yes,No,No,Anxiety,Yes,5,5,8,6,No,No,4
+62,Senior_citizen,Male,2,17,PTSD,151,No,No,Yes,Yes,No,PTSD,No,5,5,4,7,Yes,Yes,8
+25,Youth_adult,Female,7,5,Phobia,100,Yes,No,No,No,No,Depression,No,0,1,4,1,No,Yes,1
+44,Middle_aged,Female,2,38,PTSD,90,No,Yes,Yes,Yes,Yes,Anxiety,No,3,2,4,8,No,No,1
+44,Middle_aged,Male,3,33,Phobia,117,Yes,No,Yes,No,No,Depression,Yes,5,1,5,2,Yes,No,4
+51,Middle_aged,Female,7,17,Caffeine,151,Yes,No,Yes,No,Yes,Anxiety,Yes,1,6,5,9,No,No,2
+38,Middle_aged,Male,0,33,Phobia,114,Yes,Yes,No,Yes,No,PTSD,Yes,5,4,8,1,Yes,No,1
+47,Middle_aged,Male,5,43,Caffeine,93,Yes,Yes,Yes,Yes,Yes,Depression,No,3,5,4,0,Yes,Yes,8
+50,Middle_aged,Female,0,28,Caffeine,93,No,Yes,Yes,Yes,Yes,PTSD,No,2,4,5,8,No,Yes,2
+45,Middle_aged,Male,0,30,PTSD,89,No,Yes,No,No,No,Anxiety,No,2,6,4,7,Yes,Yes,4
+64,Senior_citizen,Female,7,21,Stress,91,Yes,No,No,No,No,Anxiety,Yes,0,2,8,3,Yes,No,3
+50,Middle_aged,Female,3,11,PTSD,117,Yes,No,No,No,No,Anxiety,Yes,3,1,8,6,No,Yes,2
+22,Youth_adult,Female,0,17,PTSD,113,No,Yes,Yes,No,No,PTSD,No,1,5,7,2,No,No,8
+36,Middle_aged,Male,9,9,PTSD,120,No,No,No,Yes,Yes,Anxiety,No,3,2,6,2,No,No,3
+21,Youth_adult,Male,6,30,Caffeine,89,Yes,No,No,Yes,No,Anxiety,No,1,1,5,3,No,No,9
+52,Middle_aged,Female,4,7,Caffeine,96,No,No,Yes,Yes,Yes,Anxiety,No,1,1,5,1,No,Yes,10
+34,Middle_aged,Non-binary,4,11,PTSD,96,Yes,Yes,No,Yes,No,Depression,Yes,3,4,6,9,No,No,5
+61,Senior_citizen,Female,0,43,Phobia,146,Yes,No,Yes,Yes,No,PTSD,Yes,4,3,7,3,No,Yes,9
+45,Middle_aged,Male,9,5,Phobia,141,No,Yes,No,No,Yes,PTSD,Yes,3,6,5,9,No,Yes,3
+47,Middle_aged,Female,5,21,PTSD,80,Yes,Yes,Yes,No,No,Depression,Yes,1,0,5,2,No,Yes,5
+46,Middle_aged,Female,8,29,Social Anxiety,91,Yes,Yes,No,No,No,PTSD,Yes,5,5,7,7,Yes,No,10
+63,Senior_citizen,Female,8,7,Social Anxiety,83,Yes,Yes,Yes,Yes,Yes,Depression,Yes,2,0,5,1,No,Yes,6
+23,Youth_adult,Male,7,19,Phobia,121,No,No,No,No,No,Anxiety,Yes,2,2,6,8,No,No,9
+52,Middle_aged,Female,4,33,Social Anxiety,92,No,Yes,Yes,No,No,Depression,Yes,0,0,5,2,No,Yes,8
+58,Middle_aged,Female,0,36,Phobia,83,Yes,Yes,No,No,No,Anxiety,No,2,4,4,3,No,Yes,2
+54,Middle_aged,Non-binary,8,30,Caffeine,148,Yes,Yes,No,Yes,Yes,PTSD,Yes,4,3,6,9,No,Yes,2
+41,Middle_aged,Male,0,20,PTSD,98,Yes,No,Yes,Yes,Yes,Depression,No,1,5,8,9,No,No,5
+46,Middle_aged,Female,7,29,Stress,81,Yes,Yes,No,Yes,No,Depression,No,3,6,5,2,No,No,5
+63,Senior_citizen,Non-binary,4,32,PTSD,91,Yes,No,No,Yes,Yes,Anxiety,No,3,1,5,2,No,No,5
+48,Middle_aged,Male,2,13,Phobia,153,No,Yes,Yes,No,No,Depression,No,4,1,4,7,No,No,4
+52,Middle_aged,Non-binary,6,5,Phobia,85,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,2,6,7,7,No,No,8
+50,Middle_aged,Female,6,33,PTSD,87,Yes,Yes,No,Yes,No,Anxiety,No,1,4,8,5,No,No,5
+38,Middle_aged,Male,8,26,PTSD,130,Yes,Yes,Yes,No,No,PTSD,No,2,5,5,3,No,No,1
+49,Middle_aged,Male,6,20,Phobia,90,Yes,Yes,Yes,No,Yes,Anxiety,No,0,0,5,0,Yes,No,10
+40,Middle_aged,Female,2,11,Social Anxiety,142,No,Yes,Yes,No,Yes,Depression,Yes,2,6,8,3,No,Yes,5
+50,Middle_aged,Male,0,18,Social Anxiety,136,Yes,No,Yes,No,No,Depression,Yes,0,1,7,7,No,No,1
+20,Youth_adult,Female,7,33,Phobia,91,Yes,No,Yes,Yes,No,Anxiety,Yes,3,0,6,5,No,No,4
+35,Middle_aged,Male,2,23,Phobia,152,Yes,Yes,Yes,Yes,Yes,Anxiety,No,1,4,5,1,No,No,1
+42,Middle_aged,Female,7,23,PTSD,81,Yes,Yes,No,Yes,No,Depression,No,5,1,5,2,No,No,6
+59,Middle_aged,Male,7,6,Social Anxiety,87,Yes,No,No,No,Yes,PTSD,Yes,0,2,7,6,Yes,Yes,6
+48,Middle_aged,Female,4,19,Phobia,90,Yes,Yes,Yes,No,Yes,Anxiety,No,2,3,6,3,No,No,1
+20,Youth_adult,Non-binary,0,7,Phobia,132,Yes,Yes,No,Yes,No,Depression,No,2,0,6,3,No,Yes,8
+57,Middle_aged,Non-binary,9,15,PTSD,89,Yes,No,No,No,Yes,Anxiety,No,3,6,4,4,No,No,4
+63,Senior_citizen,Female,6,34,PTSD,87,Yes,No,No,Yes,No,PTSD,No,4,5,6,7,No,No,2
+41,Middle_aged,Male,9,44,PTSD,115,Yes,Yes,Yes,No,Yes,Depression,No,5,0,8,6,No,No,1
+49,Middle_aged,Female,4,22,PTSD,155,No,Yes,Yes,Yes,Yes,Depression,Yes,4,0,8,8,No,Yes,3
+64,Senior_citizen,Male,7,6,Stress,93,Yes,Yes,No,Yes,Yes,Anxiety,No,2,0,4,4,No,Yes,7
+39,Middle_aged,Male,8,36,Social Anxiety,133,Yes,No,No,No,No,Anxiety,Yes,4,6,7,0,No,Yes,10
+40,Middle_aged,Male,6,12,PTSD,100,Yes,Yes,No,No,No,Anxiety,No,5,4,6,3,Yes,Yes,10
+19,Teenager,Female,6,26,Stress,129,Yes,Yes,No,No,No,Anxiety,No,5,4,8,5,No,No,8
+44,Middle_aged,Female,0,10,Phobia,118,No,Yes,Yes,Yes,Yes,Depression,No,1,5,7,5,No,No,5
+59,Middle_aged,Female,3,16,Phobia,99,Yes,Yes,No,Yes,Yes,Depression,No,4,4,8,8,No,No,7
+19,Teenager,Male,1,44,PTSD,86,No,No,Yes,Yes,No,Depression,Yes,1,6,8,9,Yes,No,2
+43,Middle_aged,Male,1,40,PTSD,88,Yes,No,Yes,No,Yes,Depression,Yes,2,5,5,4,No,Yes,4
+34,Middle_aged,Non-binary,1,19,Phobia,80,Yes,No,No,No,No,Anxiety,No,2,5,7,4,No,Yes,6
+57,Middle_aged,Male,3,32,Caffeine,105,No,Yes,Yes,No,Yes,Anxiety,Yes,2,4,6,5,No,Yes,5
+50,Middle_aged,Female,0,22,PTSD,117,Yes,Yes,Yes,Yes,No,Anxiety,No,3,1,5,5,No,No,6
+26,Youth_adult,Male,3,6,Stress,117,Yes,Yes,No,No,Yes,PTSD,Yes,4,4,5,2,No,No,2
+60,Middle_aged,Female,1,17,PTSD,140,Yes,Yes,Yes,No,No,Depression,Yes,0,1,4,5,No,No,7
+56,Middle_aged,Female,4,19,Social Anxiety,123,No,No,No,No,Yes,Anxiety,Yes,5,2,8,7,No,Yes,8
+46,Middle_aged,Male,2,24,PTSD,123,Yes,Yes,No,Yes,Yes,Anxiety,No,0,4,5,5,No,Yes,9
+59,Middle_aged,Male,7,33,PTSD,153,No,Yes,No,No,Yes,PTSD,No,2,2,8,4,No,No,6
+43,Middle_aged,Female,3,33,PTSD,141,Yes,Yes,Yes,No,Yes,PTSD,Yes,4,4,7,2,No,Yes,7
+52,Middle_aged,Female,0,7,Phobia,85,No,No,Yes,No,Yes,Depression,Yes,1,2,7,0,Yes,No,1
+42,Middle_aged,Male,0,23,Phobia,96,Yes,Yes,Yes,No,No,Depression,No,0,3,5,4,Yes,Yes,9
+41,Middle_aged,Non-binary,9,7,Caffeine,130,No,Yes,Yes,Yes,No,Anxiety,Yes,2,2,6,5,No,Yes,6
+30,Youth_adult,Male,2,18,Caffeine,117,Yes,Yes,Yes,No,No,Anxiety,No,0,1,6,5,No,No,4
+24,Youth_adult,Male,8,44,PTSD,103,No,No,No,No,No,PTSD,No,0,0,5,5,Yes,Yes,10
+53,Middle_aged,Non-binary,6,8,Caffeine,130,Yes,Yes,Yes,Yes,No,Anxiety,No,5,5,8,2,Yes,No,9
+62,Senior_citizen,Male,1,15,Stress,89,Yes,No,No,Yes,Yes,PTSD,No,0,2,7,3,No,No,1
+37,Middle_aged,Female,8,35,Caffeine,151,Yes,No,Yes,Yes,Yes,PTSD,No,2,0,4,2,No,No,2
+18,Teenager,Male,9,36,Stress,100,Yes,Yes,No,No,Yes,Anxiety,No,5,6,8,1,Yes,No,3
+25,Youth_adult,Male,1,31,Caffeine,149,Yes,No,No,Yes,No,Depression,No,2,3,4,7,No,No,1
+63,Senior_citizen,Non-binary,2,34,PTSD,136,No,Yes,Yes,No,Yes,Anxiety,No,3,3,6,6,No,Yes,2
+33,Middle_aged,Male,9,6,PTSD,118,No,No,Yes,Yes,Yes,Anxiety,Yes,3,6,6,7,No,No,2
+31,Middle_aged,Female,1,13,Stress,112,Yes,Yes,No,No,No,PTSD,No,3,6,4,5,No,No,7
+29,Youth_adult,Male,2,32,PTSD,138,No,Yes,No,Yes,Yes,Anxiety,Yes,0,6,7,6,Yes,Yes,10
+40,Middle_aged,Male,5,35,PTSD,97,Yes,Yes,No,Yes,No,PTSD,No,4,1,7,0,Yes,No,6
+32,Middle_aged,Male,8,38,PTSD,135,Yes,Yes,Yes,No,No,Anxiety,No,2,6,7,9,Yes,No,9
+45,Middle_aged,Female,8,19,Phobia,136,No,No,Yes,No,Yes,Anxiety,Yes,3,1,4,4,Yes,No,5
+51,Middle_aged,Male,6,29,Stress,155,Yes,Yes,No,Yes,Yes,Depression,Yes,4,2,5,3,Yes,No,9
+19,Teenager,Female,2,40,PTSD,127,No,No,No,Yes,Yes,PTSD,No,3,4,5,9,Yes,Yes,10
+49,Middle_aged,Female,3,12,Social Anxiety,121,Yes,Yes,Yes,Yes,No,PTSD,No,3,6,8,2,No,No,9
+40,Middle_aged,Non-binary,5,13,Phobia,106,Yes,No,No,No,Yes,PTSD,No,4,6,4,1,Yes,Yes,2
+39,Middle_aged,Male,4,41,PTSD,153,Yes,Yes,Yes,No,No,Anxiety,No,3,3,6,8,No,Yes,9
+42,Middle_aged,Female,1,43,PTSD,131,Yes,Yes,Yes,No,No,Depression,Yes,0,0,8,7,No,No,3
+39,Middle_aged,Female,5,36,Stress,121,Yes,Yes,Yes,No,Yes,Depression,No,0,4,7,9,No,No,3
+39,Middle_aged,Female,2,21,Caffeine,111,No,No,Yes,No,Yes,Anxiety,No,5,3,8,1,Yes,Yes,9
+59,Middle_aged,Female,7,39,Social Anxiety,105,No,Yes,No,Yes,No,Anxiety,No,0,2,8,5,Yes,No,7
+23,Youth_adult,Female,1,41,PTSD,104,No,Yes,Yes,No,Yes,Anxiety,Yes,1,6,5,2,No,No,8
+32,Middle_aged,Female,0,23,Phobia,154,Yes,Yes,Yes,No,No,Anxiety,No,5,3,5,2,No,No,7
+60,Middle_aged,Male,8,33,Stress,102,Yes,No,No,Yes,Yes,Anxiety,Yes,3,1,4,4,No,No,9
+54,Middle_aged,Male,2,11,Social Anxiety,136,Yes,Yes,No,Yes,No,Depression,Yes,1,0,4,6,No,No,8
+50,Middle_aged,Non-binary,0,32,Stress,131,Yes,Yes,No,Yes,No,Depression,No,2,0,6,6,No,Yes,4
+25,Youth_adult,Female,6,13,PTSD,110,Yes,Yes,No,Yes,No,Depression,Yes,4,1,4,9,No,Yes,2
+61,Senior_citizen,Female,9,32,Caffeine,143,No,No,Yes,No,Yes,Anxiety,Yes,2,6,7,0,No,No,5
+61,Senior_citizen,Female,4,10,Phobia,150,Yes,No,No,No,Yes,Anxiety,No,1,6,4,6,No,Yes,2
+22,Youth_adult,Male,4,33,Stress,112,Yes,Yes,No,No,No,Anxiety,No,0,4,5,6,No,No,4
+56,Middle_aged,Male,0,21,PTSD,81,Yes,Yes,No,No,Yes,Anxiety,No,3,1,7,5,No,No,2
+21,Youth_adult,Female,8,20,PTSD,97,Yes,Yes,Yes,No,Yes,Anxiety,No,5,6,5,5,Yes,No,5
+23,Youth_adult,Male,6,27,PTSD,126,Yes,Yes,Yes,No,No,PTSD,No,3,0,7,1,No,Yes,6
+62,Senior_citizen,Male,7,35,Phobia,112,No,Yes,No,Yes,Yes,Depression,Yes,0,6,9,2,No,Yes,1
+49,Middle_aged,Female,8,7,PTSD,114,Yes,No,Yes,Yes,Yes,Anxiety,Yes,3,2,8,2,No,Yes,8
+47,Middle_aged,Male,5,25,PTSD,130,No,Yes,No,No,Yes,PTSD,Yes,4,6,5,2,No,No,2
+64,Senior_citizen,Female,4,30,Stress,97,Yes,No,No,Yes,No,Depression,No,4,4,8,1,No,Yes,5
+52,Middle_aged,Male,5,40,Phobia,151,Yes,Yes,No,Yes,No,Anxiety,Yes,4,5,4,8,Yes,No,8
+57,Middle_aged,Female,1,41,PTSD,109,Yes,No,No,No,Yes,Depression,Yes,2,3,7,5,Yes,Yes,5
+33,Middle_aged,Male,3,26,PTSD,123,No,Yes,No,No,Yes,Anxiety,No,0,5,4,1,Yes,No,3
+30,Youth_adult,Female,2,16,PTSD,132,No,Yes,Yes,Yes,Yes,Depression,No,4,2,4,2,No,Yes,6
+59,Middle_aged,Male,6,17,Caffeine,89,Yes,Yes,No,No,No,Depression,No,1,5,8,9,No,No,1
+47,Middle_aged,Male,8,15,Caffeine,131,Yes,Yes,No,No,Yes,Anxiety,No,4,6,5,5,No,Yes,1
+36,Middle_aged,Male,4,20,PTSD,128,Yes,Yes,Yes,Yes,No,Anxiety,Yes,5,4,8,3,No,Yes,8
+34,Middle_aged,Female,5,12,Stress,90,Yes,No,Yes,Yes,Yes,Anxiety,No,2,0,5,6,Yes,No,7
+36,Middle_aged,Female,9,44,Phobia,145,No,No,Yes,No,No,Anxiety,No,1,0,8,5,Yes,Yes,10
+45,Middle_aged,Male,1,44,PTSD,137,Yes,Yes,No,Yes,Yes,Depression,No,0,2,8,5,No,No,10
+43,Middle_aged,Female,2,6,Social Anxiety,115,Yes,Yes,Yes,Yes,No,Depression,Yes,0,5,6,2,No,No,3
+54,Middle_aged,Female,2,34,Phobia,112,Yes,Yes,No,No,Yes,Anxiety,No,5,4,6,7,No,No,8
+43,Middle_aged,Female,8,34,Caffeine,126,Yes,Yes,Yes,No,Yes,Depression,No,4,3,7,8,No,No,8
+40,Middle_aged,Male,6,16,PTSD,92,Yes,Yes,Yes,Yes,No,Depression,Yes,1,6,8,5,No,Yes,1
+26,Youth_adult,Female,7,14,PTSD,119,Yes,No,No,Yes,No,Anxiety,No,5,5,5,1,Yes,Yes,10
+29,Youth_adult,Male,9,15,Social Anxiety,147,No,No,Yes,Yes,Yes,Anxiety,Yes,1,5,7,0,No,Yes,7
+18,Teenager,Male,8,19,PTSD,121,No,No,No,No,No,Anxiety,No,4,3,5,2,No,Yes,2
+18,Teenager,Non-binary,5,20,Stress,98,Yes,Yes,No,Yes,No,Anxiety,No,4,1,5,2,No,Yes,2
+64,Senior_citizen,Male,3,21,Social Anxiety,98,No,No,No,No,No,Anxiety,Yes,3,6,4,7,No,Yes,2
+51,Middle_aged,Female,0,30,PTSD,137,Yes,No,Yes,No,Yes,Anxiety,Yes,3,2,7,4,Yes,No,5
+49,Middle_aged,Female,7,6,Stress,102,Yes,Yes,No,Yes,No,Depression,Yes,4,6,8,0,Yes,No,7
+42,Middle_aged,Female,6,16,Social Anxiety,133,Yes,Yes,No,No,Yes,Depression,Yes,2,4,5,3,No,Yes,4
+57,Middle_aged,Female,1,30,Stress,159,Yes,No,No,No,Yes,Anxiety,Yes,5,2,6,6,No,Yes,4
+62,Senior_citizen,Male,7,27,Stress,144,Yes,Yes,Yes,No,No,Anxiety,Yes,3,3,7,4,No,Yes,9
+18,Teenager,Male,4,22,Social Anxiety,91,Yes,Yes,No,Yes,Yes,Depression,No,4,4,6,9,Yes,Yes,10
+33,Middle_aged,Female,6,36,Social Anxiety,103,Yes,Yes,No,No,Yes,PTSD,Yes,1,0,8,5,No,No,9
+56,Middle_aged,Male,3,42,Stress,113,No,Yes,No,No,No,PTSD,No,5,0,5,9,Yes,Yes,7
+22,Youth_adult,Male,4,7,Caffeine,132,Yes,Yes,Yes,No,No,Depression,No,3,6,4,3,Yes,Yes,10
+39,Middle_aged,Male,7,42,Social Anxiety,87,Yes,No,Yes,Yes,Yes,Anxiety,No,2,4,4,1,Yes,No,4
+46,Middle_aged,Male,0,7,PTSD,97,Yes,No,Yes,No,Yes,Anxiety,No,5,2,8,8,No,No,8
+20,Youth_adult,Male,0,34,Phobia,136,Yes,No,Yes,Yes,No,PTSD,Yes,5,2,8,1,No,No,10
+29,Youth_adult,Male,3,5,PTSD,84,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,0,0,5,1,No,No,3
+43,Middle_aged,Female,2,34,Stress,105,No,No,Yes,No,No,Anxiety,No,1,0,4,1,Yes,Yes,3
+33,Middle_aged,Female,9,36,Stress,109,Yes,Yes,No,No,No,Depression,No,2,3,6,0,Yes,Yes,7
+54,Middle_aged,Female,1,32,PTSD,133,Yes,Yes,Yes,No,Yes,Depression,No,2,4,7,2,Yes,Yes,9
+39,Middle_aged,Male,2,25,Caffeine,92,Yes,Yes,No,No,No,Anxiety,No,2,2,7,5,No,Yes,4
+46,Middle_aged,Male,0,17,PTSD,108,Yes,Yes,Yes,No,No,Depression,No,1,3,8,6,Yes,No,4
+31,Middle_aged,Male,0,31,Social Anxiety,82,Yes,Yes,Yes,Yes,Yes,Depression,No,2,2,8,0,No,No,1
+45,Middle_aged,Female,5,40,PTSD,137,Yes,Yes,Yes,No,No,Anxiety,No,0,0,8,4,Yes,Yes,1
+22,Youth_adult,Female,4,11,Stress,155,Yes,Yes,Yes,Yes,No,Anxiety,Yes,3,4,6,4,Yes,Yes,3
+64,Senior_citizen,Male,7,26,PTSD,81,Yes,Yes,No,Yes,No,PTSD,Yes,1,1,5,0,Yes,Yes,7
+47,Middle_aged,Non-binary,1,14,Phobia,154,Yes,No,No,No,No,Depression,No,2,4,7,3,Yes,No,9
+63,Senior_citizen,Male,3,43,PTSD,107,No,Yes,Yes,No,Yes,Depression,No,4,5,6,9,No,Yes,4
+22,Youth_adult,Female,7,19,Social Anxiety,156,Yes,No,Yes,No,Yes,Anxiety,No,3,1,5,0,No,Yes,2
+29,Youth_adult,Female,5,19,PTSD,155,No,Yes,Yes,No,Yes,PTSD,Yes,5,6,4,0,No,No,6
+33,Middle_aged,Female,0,8,Stress,81,No,Yes,No,Yes,Yes,PTSD,No,1,6,6,6,Yes,Yes,6
+43,Middle_aged,Female,3,36,PTSD,86,Yes,No,No,Yes,Yes,Depression,Yes,4,3,7,6,Yes,Yes,9
+43,Middle_aged,Female,0,27,Social Anxiety,105,Yes,Yes,No,No,No,Depression,No,5,1,6,2,No,Yes,4
+38,Middle_aged,Male,1,10,Stress,155,Yes,Yes,No,Yes,No,Depression,Yes,4,1,4,6,No,Yes,8
+56,Middle_aged,Female,4,28,Caffeine,95,Yes,No,No,Yes,No,Depression,Yes,2,3,6,2,No,Yes,3
+53,Middle_aged,Male,7,24,Phobia,102,Yes,Yes,Yes,No,No,Anxiety,Yes,1,4,4,1,No,Yes,2
+50,Middle_aged,Female,7,41,Caffeine,119,No,No,Yes,Yes,No,Anxiety,Yes,2,3,7,9,No,No,9
+47,Middle_aged,Female,2,24,Phobia,139,No,Yes,No,Yes,Yes,Depression,No,5,5,6,3,Yes,No,6
+54,Middle_aged,Female,3,16,PTSD,152,Yes,Yes,No,No,No,Anxiety,Yes,0,0,8,9,No,No,8
+40,Middle_aged,Female,9,37,Social Anxiety,111,Yes,Yes,No,No,Yes,Depression,Yes,4,6,7,2,No,No,10
+27,Youth_adult,Female,5,32,PTSD,94,Yes,Yes,No,No,No,PTSD,No,0,0,7,6,No,Yes,9
+22,Youth_adult,Female,9,12,Phobia,92,No,No,Yes,No,No,Anxiety,No,5,6,7,0,No,No,1
+53,Middle_aged,Female,2,5,Phobia,84,Yes,No,No,No,Yes,Anxiety,Yes,2,1,6,5,No,Yes,1
+51,Middle_aged,Male,1,41,Phobia,154,Yes,Yes,No,No,No,Depression,Yes,3,3,4,1,Yes,Yes,5
+48,Middle_aged,Male,5,26,PTSD,153,No,Yes,Yes,No,No,Anxiety,No,4,3,7,7,No,Yes,9
+27,Youth_adult,Male,4,10,Stress,131,Yes,No,No,Yes,Yes,PTSD,No,3,3,6,4,Yes,Yes,7
+36,Middle_aged,Male,9,25,Social Anxiety,156,No,Yes,No,Yes,No,Anxiety,Yes,1,5,6,2,No,No,7
+49,Middle_aged,Female,4,36,PTSD,120,Yes,Yes,Yes,No,Yes,PTSD,No,4,5,5,9,No,Yes,2
+18,Teenager,Male,9,39,PTSD,132,Yes,Yes,Yes,No,Yes,Anxiety,Yes,0,4,8,6,No,Yes,3
+22,Youth_adult,Non-binary,4,19,Caffeine,129,No,Yes,Yes,No,No,Anxiety,Yes,3,2,5,1,No,Yes,4
+62,Senior_citizen,Male,9,9,Phobia,94,Yes,No,No,No,No,PTSD,No,5,6,5,4,No,Yes,2
+21,Youth_adult,Male,4,10,Phobia,86,Yes,No,Yes,No,No,Depression,No,1,2,8,7,Yes,Yes,10
+33,Middle_aged,Female,2,29,Phobia,119,Yes,Yes,No,No,No,Anxiety,Yes,4,2,8,0,No,Yes,9
+41,Middle_aged,Female,6,44,PTSD,107,Yes,Yes,No,No,Yes,Anxiety,No,5,6,4,0,Yes,Yes,5
+33,Middle_aged,Female,5,33,Caffeine,111,Yes,Yes,Yes,Yes,No,Depression,Yes,1,4,8,2,No,No,7
+19,Teenager,Female,3,11,Stress,94,Yes,Yes,No,No,No,Depression,Yes,0,3,5,2,No,Yes,9
+45,Middle_aged,Female,1,44,PTSD,149,Yes,Yes,No,Yes,No,Anxiety,Yes,5,2,7,6,Yes,Yes,5
+49,Middle_aged,Male,8,17,Social Anxiety,144,Yes,No,Yes,No,Yes,Anxiety,Yes,4,3,6,5,Yes,No,6
+44,Middle_aged,Non-binary,0,42,Stress,83,No,Yes,Yes,No,No,Depression,No,1,1,6,6,No,No,4
+37,Middle_aged,Non-binary,3,22,PTSD,90,No,Yes,No,No,No,Depression,No,2,2,7,3,No,Yes,8
+41,Middle_aged,Female,0,6,PTSD,105,Yes,Yes,No,No,No,Depression,Yes,4,1,5,1,No,Yes,1
+29,Youth_adult,Male,5,12,PTSD,140,Yes,Yes,Yes,No,No,Depression,No,4,4,4,1,Yes,No,1
+52,Middle_aged,Female,3,15,PTSD,116,Yes,Yes,Yes,Yes,Yes,Anxiety,No,4,0,7,9,No,Yes,5
+50,Middle_aged,Male,4,37,Phobia,102,Yes,No,Yes,Yes,No,Anxiety,No,4,5,5,0,No,No,10
+50,Middle_aged,Male,4,42,Social Anxiety,119,No,Yes,No,No,No,Anxiety,No,2,6,8,8,Yes,Yes,9
+60,Middle_aged,Male,8,31,PTSD,156,No,No,Yes,No,Yes,Anxiety,Yes,5,4,6,6,No,No,2
+54,Middle_aged,Female,0,24,PTSD,102,Yes,Yes,No,No,No,Anxiety,No,5,4,4,9,No,No,3
+29,Youth_adult,Female,1,16,PTSD,95,Yes,Yes,No,Yes,Yes,Depression,No,5,4,7,2,No,No,8
+20,Youth_adult,Female,5,35,PTSD,140,Yes,Yes,Yes,No,Yes,PTSD,No,0,2,5,1,No,Yes,5
+18,Teenager,Female,4,31,Social Anxiety,147,Yes,Yes,No,No,No,Depression,No,2,1,4,2,No,Yes,3
+50,Middle_aged,Male,6,36,Social Anxiety,159,Yes,Yes,Yes,No,Yes,Anxiety,Yes,2,5,6,6,No,Yes,6
+57,Middle_aged,Male,2,14,Caffeine,110,No,Yes,No,No,Yes,Anxiety,No,1,2,8,4,Yes,No,6
+27,Youth_adult,Male,2,7,Caffeine,132,No,No,Yes,No,No,Depression,Yes,3,0,6,2,No,No,5
+60,Middle_aged,Non-binary,9,31,Stress,104,Yes,No,No,No,Yes,Anxiety,Yes,5,6,5,8,Yes,Yes,5
+61,Senior_citizen,Male,1,39,Social Anxiety,123,Yes,Yes,No,No,Yes,Depression,Yes,3,6,6,1,No,No,6
+46,Middle_aged,Female,2,35,Social Anxiety,91,No,Yes,Yes,No,Yes,Anxiety,No,1,5,4,6,No,Yes,2
+30,Youth_adult,Female,9,19,Social Anxiety,88,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,2,6,4,9,Yes,Yes,6
+29,Youth_adult,Male,0,20,Caffeine,91,Yes,Yes,Yes,No,No,Anxiety,No,1,6,8,5,Yes,No,2
+48,Middle_aged,Female,4,17,PTSD,148,Yes,Yes,Yes,Yes,No,Depression,Yes,4,4,8,5,No,Yes,3
+63,Senior_citizen,Female,4,39,PTSD,133,No,No,No,Yes,No,Anxiety,No,1,3,4,6,No,Yes,2
+19,Teenager,Female,6,15,PTSD,133,Yes,Yes,No,No,No,PTSD,Yes,1,0,6,5,No,Yes,1
+52,Middle_aged,Non-binary,3,25,PTSD,107,Yes,Yes,Yes,Yes,Yes,PTSD,No,4,1,8,1,No,No,1
+40,Middle_aged,Male,2,15,Phobia,135,No,Yes,No,No,No,Anxiety,No,3,0,4,4,No,No,9
+34,Middle_aged,Male,0,34,Caffeine,148,No,Yes,No,No,No,Anxiety,No,4,2,4,2,No,No,4
+43,Middle_aged,Female,7,39,Social Anxiety,156,No,No,No,No,No,Anxiety,Yes,0,6,8,8,Yes,No,5
+25,Youth_adult,Non-binary,2,26,PTSD,137,Yes,Yes,Yes,No,No,Anxiety,No,1,3,7,7,No,No,10
+46,Middle_aged,Male,1,42,Caffeine,157,Yes,Yes,Yes,Yes,No,PTSD,No,1,2,4,9,No,Yes,7
+43,Middle_aged,Female,3,35,PTSD,154,No,No,Yes,No,No,Anxiety,No,3,5,6,1,No,No,2
+27,Youth_adult,Female,2,18,Stress,121,No,Yes,No,Yes,Yes,Anxiety,Yes,2,4,4,0,Yes,No,10
+43,Middle_aged,Female,0,28,Social Anxiety,117,Yes,No,Yes,No,No,Anxiety,No,4,6,6,3,No,No,9
+51,Middle_aged,Male,2,36,Stress,147,Yes,Yes,Yes,No,Yes,Anxiety,Yes,2,4,7,3,No,No,4
+58,Middle_aged,Female,1,40,Social Anxiety,132,No,Yes,Yes,Yes,Yes,Anxiety,No,0,0,6,9,Yes,No,10
+24,Youth_adult,Non-binary,7,36,Caffeine,112,No,No,No,No,Yes,Anxiety,No,4,4,7,1,No,Yes,10
+21,Youth_adult,Male,5,19,PTSD,150,Yes,Yes,Yes,No,Yes,Anxiety,Yes,0,4,5,6,No,Yes,1
+62,Senior_citizen,Male,8,39,PTSD,135,Yes,Yes,Yes,No,Yes,Depression,No,0,5,4,2,Yes,No,8
+28,Youth_adult,Non-binary,7,7,PTSD,151,Yes,Yes,Yes,No,Yes,PTSD,No,0,1,4,6,Yes,No,4
+46,Middle_aged,Male,9,20,Phobia,130,Yes,Yes,Yes,Yes,No,PTSD,No,5,1,8,6,No,No,7
+53,Middle_aged,Female,2,9,Stress,153,Yes,No,No,No,No,Depression,Yes,4,2,7,0,No,Yes,3
+42,Middle_aged,Female,4,25,PTSD,122,Yes,No,Yes,No,No,PTSD,No,4,6,5,5,Yes,Yes,9
+38,Middle_aged,Male,6,14,Caffeine,94,Yes,No,Yes,No,Yes,Depression,No,5,2,6,3,Yes,No,5
+53,Middle_aged,Female,4,23,PTSD,117,Yes,No,No,Yes,No,Anxiety,Yes,3,1,8,7,No,No,5
+27,Youth_adult,Male,7,29,Caffeine,94,Yes,Yes,Yes,No,No,Depression,Yes,5,0,6,7,No,No,3
+54,Middle_aged,Female,4,8,Stress,84,No,Yes,Yes,Yes,Yes,Depression,No,1,1,5,2,Yes,Yes,9
+26,Youth_adult,Male,0,33,Phobia,133,Yes,Yes,No,Yes,No,PTSD,Yes,2,2,5,3,Yes,No,3
+41,Middle_aged,Female,4,23,PTSD,130,Yes,Yes,Yes,No,No,Anxiety,No,2,3,5,0,No,No,2
+52,Middle_aged,Male,3,6,Caffeine,89,No,Yes,Yes,No,Yes,Depression,Yes,0,6,8,9,No,No,9
+52,Middle_aged,Male,5,14,Social Anxiety,91,Yes,No,Yes,No,No,PTSD,Yes,4,4,6,1,No,Yes,9
+53,Middle_aged,Non-binary,2,29,PTSD,83,No,Yes,Yes,No,No,Anxiety,No,4,5,7,6,No,Yes,10
+35,Middle_aged,Male,4,24,Caffeine,97,No,Yes,No,No,Yes,PTSD,No,0,3,8,6,No,No,4
+56,Middle_aged,Female,1,23,PTSD,159,Yes,Yes,No,Yes,Yes,Anxiety,No,1,3,8,8,No,Yes,4
+49,Middle_aged,Male,5,27,PTSD,115,No,No,No,No,Yes,Anxiety,No,2,4,5,9,No,No,10
+41,Middle_aged,Female,5,28,Social Anxiety,104,Yes,No,Yes,Yes,Yes,Anxiety,No,5,1,4,8,No,Yes,6
+40,Middle_aged,Male,4,15,Phobia,155,Yes,No,Yes,No,No,Depression,Yes,3,6,6,8,Yes,No,9
+49,Middle_aged,Non-binary,5,38,Phobia,115,Yes,Yes,No,Yes,No,Anxiety,No,1,0,4,5,No,Yes,8
+54,Middle_aged,Female,6,32,Social Anxiety,146,Yes,No,No,Yes,Yes,Anxiety,Yes,4,3,8,7,No,Yes,10
+29,Youth_adult,Male,4,9,PTSD,88,No,Yes,Yes,No,No,Anxiety,No,0,0,8,8,No,No,3
+30,Youth_adult,Male,0,9,PTSD,140,Yes,No,Yes,Yes,Yes,Anxiety,Yes,2,5,7,6,No,No,6
+40,Middle_aged,Male,7,25,Caffeine,132,Yes,Yes,Yes,Yes,Yes,PTSD,Yes,0,5,5,3,No,Yes,7
+42,Middle_aged,Female,3,16,Social Anxiety,97,Yes,Yes,Yes,No,Yes,Anxiety,No,4,5,4,3,No,Yes,6
+52,Middle_aged,Male,8,8,Stress,122,Yes,Yes,Yes,Yes,No,Anxiety,Yes,0,2,5,5,No,No,3
+58,Middle_aged,Female,9,24,PTSD,114,Yes,No,Yes,Yes,Yes,PTSD,Yes,5,3,8,3,No,Yes,9
+47,Middle_aged,Male,5,42,Phobia,142,Yes,Yes,No,Yes,Yes,Depression,No,2,5,5,6,No,No,4
+34,Middle_aged,Male,0,29,Social Anxiety,157,No,No,No,No,Yes,Depression,No,0,2,4,7,No,Yes,2
+37,Middle_aged,Female,2,18,Phobia,83,Yes,Yes,Yes,No,No,Anxiety,No,2,5,5,7,No,No,9
+42,Middle_aged,Female,2,15,PTSD,120,No,Yes,Yes,No,No,Depression,No,0,1,8,7,Yes,No,3
+39,Middle_aged,Male,9,36,Phobia,124,Yes,Yes,No,No,Yes,Anxiety,Yes,0,3,7,1,Yes,No,6
+30,Youth_adult,Male,3,15,Social Anxiety,129,No,Yes,Yes,Yes,Yes,Anxiety,No,2,2,8,9,No,Yes,5
+36,Middle_aged,Male,5,22,PTSD,158,No,Yes,No,No,No,Depression,Yes,5,5,7,1,No,No,2
+53,Middle_aged,Female,6,31,Stress,107,Yes,Yes,Yes,Yes,No,Anxiety,No,0,6,6,1,No,Yes,1
+29,Youth_adult,Female,9,22,Social Anxiety,121,Yes,No,No,No,Yes,PTSD,No,5,2,4,1,Yes,No,9
+58,Middle_aged,Female,3,27,Caffeine,159,No,Yes,Yes,No,No,PTSD,No,1,5,5,3,No,Yes,3
+36,Middle_aged,Female,5,15,PTSD,155,Yes,No,Yes,No,No,Anxiety,No,3,1,6,4,Yes,No,7
+29,Youth_adult,Female,0,25,Social Anxiety,148,No,Yes,Yes,Yes,Yes,Anxiety,Yes,1,0,8,3,No,Yes,9
+26,Youth_adult,Female,7,9,PTSD,80,Yes,No,Yes,Yes,No,Anxiety,No,3,5,5,4,Yes,No,9
+24,Youth_adult,Female,6,27,PTSD,118,Yes,Yes,Yes,No,No,Depression,No,1,0,4,3,Yes,Yes,10
+45,Middle_aged,Male,8,29,Social Anxiety,96,Yes,Yes,No,Yes,No,Depression,Yes,3,3,6,6,Yes,Yes,6
+31,Middle_aged,Male,2,14,Stress,114,No,Yes,Yes,No,Yes,Anxiety,Yes,0,1,4,9,No,Yes,8
+48,Middle_aged,Male,1,26,Stress,125,Yes,Yes,Yes,No,Yes,Depression,No,2,6,7,0,No,Yes,9
+36,Middle_aged,Male,0,23,Caffeine,121,No,No,No,No,Yes,Anxiety,No,2,3,5,0,Yes,Yes,3
+64,Senior_citizen,Female,2,5,Phobia,118,No,Yes,No,Yes,Yes,PTSD,Yes,4,6,5,1,No,Yes,6
+33,Middle_aged,Non-binary,4,11,PTSD,128,Yes,Yes,No,No,No,Depression,No,3,0,6,0,Yes,No,5
+22,Youth_adult,Male,1,8,PTSD,141,Yes,No,No,No,No,Depression,Yes,4,1,7,9,No,Yes,7
+52,Middle_aged,Male,2,5,PTSD,117,No,Yes,Yes,No,No,Anxiety,Yes,5,4,6,9,No,No,7
+29,Youth_adult,Female,3,19,Phobia,102,Yes,No,No,Yes,No,Anxiety,No,5,1,5,2,No,Yes,9
+42,Middle_aged,Non-binary,6,44,Stress,101,No,Yes,No,Yes,Yes,Anxiety,Yes,4,1,8,5,No,No,1
+38,Middle_aged,Male,2,16,Stress,83,Yes,No,No,Yes,No,Depression,No,3,6,4,9,No,Yes,6
+53,Middle_aged,Female,8,26,Social Anxiety,128,Yes,Yes,Yes,Yes,No,Anxiety,Yes,2,4,4,5,No,No,5
+40,Middle_aged,Male,7,26,Caffeine,138,No,Yes,Yes,No,Yes,Depression,Yes,3,2,7,0,No,No,4
+33,Middle_aged,Male,3,21,PTSD,152,Yes,Yes,Yes,No,No,Anxiety,Yes,5,2,4,5,No,Yes,10
+56,Middle_aged,Non-binary,0,33,Caffeine,147,Yes,No,No,Yes,Yes,Anxiety,No,0,2,6,4,Yes,No,1
+62,Senior_citizen,Non-binary,0,18,Caffeine,150,Yes,Yes,No,No,No,Depression,No,4,0,8,6,No,Yes,4
+59,Middle_aged,Male,0,24,Social Anxiety,81,Yes,Yes,No,Yes,No,Anxiety,No,4,1,7,5,No,No,10
+56,Middle_aged,Non-binary,0,37,Caffeine,128,Yes,No,Yes,Yes,Yes,Anxiety,Yes,5,5,7,6,No,Yes,7
+31,Middle_aged,Female,7,19,Phobia,110,No,No,No,Yes,No,PTSD,No,3,4,6,1,No,Yes,4
+48,Middle_aged,Female,2,16,Social Anxiety,119,Yes,No,No,Yes,No,Depression,No,4,5,4,0,No,Yes,1
+22,Youth_adult,Female,5,44,Phobia,127,Yes,No,Yes,No,Yes,Depression,No,2,0,6,6,Yes,No,10
+52,Middle_aged,Female,2,24,Social Anxiety,130,Yes,Yes,No,Yes,Yes,Anxiety,No,4,4,5,8,Yes,Yes,1
+40,Middle_aged,Female,4,34,Caffeine,122,Yes,Yes,Yes,No,Yes,Anxiety,No,3,5,8,1,No,No,1
+46,Middle_aged,Female,6,42,Phobia,134,Yes,No,No,No,No,Depression,Yes,5,6,5,6,No,No,10
+60,Middle_aged,Male,1,7,Phobia,128,No,No,No,No,No,Anxiety,No,2,0,6,2,No,Yes,5
+28,Youth_adult,Male,5,32,Phobia,159,No,Yes,No,Yes,No,Depression,No,2,0,8,5,No,No,7
+35,Middle_aged,Male,5,30,Social Anxiety,136,Yes,Yes,No,Yes,No,Anxiety,No,4,0,7,2,No,No,9
+64,Senior_citizen,Female,2,34,PTSD,156,Yes,No,No,Yes,No,Anxiety,Yes,3,4,8,9,Yes,No,8
+29,Youth_adult,Male,5,17,Caffeine,94,Yes,Yes,Yes,No,Yes,Anxiety,Yes,4,5,7,4,No,No,2
+26,Youth_adult,Female,9,17,Phobia,106,Yes,Yes,Yes,Yes,No,Depression,No,0,5,5,1,No,No,9
+27,Youth_adult,Non-binary,9,6,PTSD,147,Yes,Yes,No,No,Yes,Anxiety,Yes,5,3,8,7,Yes,No,4
+61,Senior_citizen,Male,4,41,PTSD,159,Yes,Yes,Yes,No,Yes,Anxiety,Yes,0,0,5,7,No,Yes,10
+34,Middle_aged,Female,1,42,PTSD,143,Yes,No,Yes,No,No,Depression,No,2,2,4,6,Yes,Yes,5
+55,Middle_aged,Male,8,6,Caffeine,109,Yes,Yes,No,No,Yes,Anxiety,No,4,1,7,5,No,Yes,5
+24,Youth_adult,Female,7,40,Caffeine,115,Yes,No,No,Yes,No,PTSD,No,0,6,7,0,Yes,Yes,4
+63,Senior_citizen,Male,2,30,Phobia,146,No,Yes,Yes,No,No,PTSD,No,1,6,8,7,No,Yes,6
+30,Youth_adult,Female,7,15,Phobia,128,Yes,Yes,Yes,No,Yes,Anxiety,Yes,0,3,8,0,No,No,1
+57,Middle_aged,Female,8,12,Social Anxiety,155,Yes,No,Yes,No,Yes,Anxiety,No,4,3,8,7,No,Yes,2
+59,Middle_aged,Non-binary,2,44,PTSD,134,Yes,Yes,Yes,No,No,Anxiety,Yes,4,4,4,1,No,No,4
+26,Youth_adult,Female,2,26,PTSD,135,Yes,Yes,Yes,No,No,Depression,No,5,3,7,7,Yes,No,4
+44,Middle_aged,Female,1,24,Phobia,147,No,Yes,No,Yes,Yes,Anxiety,No,0,5,7,9,No,Yes,8
+19,Teenager,Female,7,12,Caffeine,123,Yes,Yes,Yes,Yes,Yes,PTSD,Yes,4,4,8,3,No,Yes,9
+22,Youth_adult,Female,9,33,Phobia,110,Yes,Yes,Yes,Yes,No,Anxiety,Yes,4,4,5,6,No,No,4
+46,Middle_aged,Female,0,44,Caffeine,137,Yes,No,Yes,Yes,No,Anxiety,No,5,6,4,4,No,No,6
+54,Middle_aged,Male,7,30,Caffeine,132,No,No,No,Yes,Yes,Anxiety,Yes,5,6,8,7,Yes,No,4
+55,Middle_aged,Non-binary,6,34,Phobia,158,Yes,No,Yes,No,Yes,Anxiety,Yes,5,2,5,5,Yes,Yes,4
+36,Middle_aged,Female,6,21,Stress,102,Yes,Yes,Yes,No,No,Depression,No,5,0,7,4,No,No,9
+25,Youth_adult,Female,2,24,PTSD,107,Yes,Yes,Yes,No,No,PTSD,No,1,3,5,0,No,Yes,4
+62,Senior_citizen,Male,0,20,PTSD,95,Yes,Yes,No,No,No,Anxiety,Yes,2,0,6,2,No,No,6
+18,Teenager,Female,3,11,Caffeine,116,Yes,Yes,No,No,No,Depression,No,4,0,7,9,No,No,9
+39,Middle_aged,Male,8,20,Caffeine,100,Yes,Yes,Yes,Yes,No,Anxiety,No,3,0,5,8,No,Yes,3
+34,Middle_aged,Female,4,31,Stress,158,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,5,4,7,8,No,Yes,7
+24,Youth_adult,Male,0,27,PTSD,96,No,No,Yes,No,No,Depression,No,2,0,4,4,No,Yes,7
+42,Middle_aged,Female,4,28,Social Anxiety,116,Yes,Yes,No,Yes,Yes,Depression,Yes,5,3,5,2,No,Yes,1
+62,Senior_citizen,Non-binary,7,13,Stress,156,Yes,Yes,No,Yes,No,PTSD,No,2,4,5,5,No,No,2
+21,Youth_adult,Male,7,39,PTSD,98,Yes,No,Yes,Yes,Yes,Anxiety,No,3,3,7,4,No,Yes,5
+53,Middle_aged,Non-binary,4,24,Stress,109,No,Yes,Yes,Yes,Yes,PTSD,No,0,4,5,0,Yes,No,8
+23,Youth_adult,Male,8,41,Caffeine,124,Yes,No,Yes,No,No,Anxiety,No,1,1,7,1,No,Yes,6
+48,Middle_aged,Female,0,21,PTSD,97,No,No,Yes,No,No,Anxiety,Yes,4,1,7,4,No,No,7
+36,Middle_aged,Female,3,35,Stress,157,Yes,No,No,No,Yes,Depression,Yes,0,1,7,8,No,No,3
+61,Senior_citizen,Female,2,12,Social Anxiety,141,Yes,Yes,Yes,No,No,PTSD,No,3,1,7,3,No,No,6
+56,Middle_aged,Female,1,19,Phobia,115,Yes,No,Yes,Yes,Yes,Anxiety,No,1,4,6,8,Yes,No,9
+44,Middle_aged,Female,7,35,PTSD,131,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,1,0,5,2,No,Yes,3
+27,Youth_adult,Male,6,34,Stress,98,No,No,No,Yes,No,Depression,No,1,2,6,0,No,No,6
+43,Middle_aged,Male,8,24,Stress,123,No,Yes,No,Yes,Yes,Anxiety,Yes,3,6,4,5,Yes,Yes,7
+36,Middle_aged,Female,1,43,Social Anxiety,86,Yes,Yes,Yes,No,No,PTSD,Yes,5,5,8,9,No,Yes,5
+56,Middle_aged,Female,3,16,PTSD,123,Yes,Yes,Yes,No,Yes,PTSD,No,5,2,8,6,No,Yes,10
+20,Youth_adult,Female,5,21,Stress,147,No,Yes,Yes,No,No,Anxiety,Yes,5,1,5,3,No,No,8
+62,Senior_citizen,Female,2,34,Stress,113,Yes,No,Yes,Yes,No,Depression,No,0,0,6,9,No,No,8
+30,Youth_adult,Male,7,33,PTSD,145,Yes,No,Yes,No,Yes,PTSD,Yes,4,3,8,4,Yes,No,6
+45,Middle_aged,Female,2,23,Social Anxiety,148,Yes,No,No,No,Yes,Anxiety,Yes,1,0,5,3,No,Yes,7
+37,Middle_aged,Male,1,15,PTSD,134,Yes,Yes,No,No,No,Depression,No,1,3,7,2,No,Yes,3
+45,Middle_aged,Female,2,38,PTSD,89,Yes,No,No,No,No,Anxiety,No,0,2,4,0,Yes,No,7
+25,Youth_adult,Male,5,11,Stress,121,Yes,Yes,Yes,No,Yes,Depression,No,5,0,6,5,No,No,7
+58,Middle_aged,Male,1,38,PTSD,120,Yes,No,No,No,No,Anxiety,No,1,0,8,9,No,Yes,4
+56,Middle_aged,Male,7,24,Stress,156,Yes,No,No,No,Yes,PTSD,Yes,1,5,6,4,Yes,No,10
+18,Teenager,Male,0,42,Phobia,148,Yes,Yes,Yes,Yes,Yes,Anxiety,No,3,2,7,0,No,Yes,4
+20,Youth_adult,Female,6,28,PTSD,89,Yes,No,Yes,No,Yes,Anxiety,No,2,0,8,4,No,Yes,3
+30,Youth_adult,Male,1,14,Caffeine,89,No,Yes,Yes,Yes,Yes,PTSD,No,0,3,7,5,No,Yes,10
+45,Middle_aged,Male,9,36,Phobia,139,Yes,Yes,Yes,Yes,No,Anxiety,Yes,0,6,7,9,No,Yes,7
+42,Middle_aged,Male,5,19,Stress,130,Yes,Yes,Yes,No,No,Anxiety,Yes,5,0,6,4,No,Yes,5
+50,Middle_aged,Male,1,41,Social Anxiety,100,No,Yes,No,No,No,Anxiety,No,0,3,7,0,Yes,No,3
+55,Middle_aged,Male,1,24,PTSD,87,No,No,Yes,Yes,No,Anxiety,No,5,1,8,4,No,No,6
+23,Youth_adult,Male,9,7,Caffeine,144,Yes,Yes,No,No,No,Anxiety,No,3,0,8,9,Yes,Yes,6
+61,Senior_citizen,Female,7,41,Phobia,157,Yes,Yes,Yes,Yes,No,PTSD,No,3,3,8,0,No,No,6
+62,Senior_citizen,Female,1,44,PTSD,109,No,Yes,No,No,No,Anxiety,Yes,4,6,7,2,Yes,No,2
+49,Middle_aged,Female,6,12,PTSD,128,No,No,Yes,No,No,PTSD,No,5,2,4,1,No,Yes,10
+62,Senior_citizen,Female,2,44,Social Anxiety,88,No,No,No,No,No,Depression,No,3,1,8,0,No,No,7
+64,Senior_citizen,Male,7,27,Phobia,96,No,No,Yes,No,Yes,Anxiety,No,5,0,7,3,Yes,No,7
+38,Middle_aged,Female,6,44,PTSD,148,Yes,No,Yes,Yes,No,Anxiety,Yes,0,5,7,1,No,Yes,10
+33,Middle_aged,Female,7,15,Stress,137,Yes,Yes,No,No,No,Depression,Yes,4,3,5,4,Yes,Yes,4
+38,Middle_aged,Female,6,12,PTSD,136,Yes,Yes,Yes,Yes,No,Depression,Yes,2,6,8,9,No,Yes,6
+28,Youth_adult,Male,5,33,Phobia,141,Yes,Yes,No,No,No,Depression,No,1,5,4,0,No,No,4
+54,Middle_aged,Male,6,34,Phobia,131,Yes,Yes,No,No,No,Depression,Yes,1,0,5,9,Yes,Yes,4
+53,Middle_aged,Male,4,14,Stress,140,Yes,No,Yes,No,No,Anxiety,Yes,4,3,7,0,No,No,6
+52,Middle_aged,Male,6,43,PTSD,119,Yes,Yes,Yes,Yes,Yes,PTSD,No,5,0,7,9,Yes,No,9
+36,Middle_aged,Female,0,32,PTSD,117,No,No,No,Yes,No,Depression,Yes,5,1,5,3,Yes,Yes,7
+37,Middle_aged,Female,0,40,Stress,122,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,5,6,7,6,No,No,2
+35,Middle_aged,Female,8,17,PTSD,142,Yes,Yes,No,No,No,Anxiety,Yes,2,6,5,1,No,No,6
+64,Senior_citizen,Female,4,36,PTSD,98,Yes,Yes,No,No,No,Depression,Yes,1,1,4,1,No,Yes,5
+58,Middle_aged,Female,4,40,Stress,129,Yes,No,Yes,Yes,Yes,Anxiety,No,4,0,4,0,Yes,No,6
+31,Middle_aged,Female,2,41,Social Anxiety,112,No,No,Yes,No,Yes,Depression,No,5,0,8,4,No,Yes,8
+32,Middle_aged,Non-binary,4,30,Phobia,92,Yes,No,No,No,No,PTSD,No,3,4,5,5,No,Yes,8
+48,Middle_aged,Male,2,26,Social Anxiety,157,No,Yes,Yes,Yes,Yes,PTSD,No,0,0,4,5,Yes,Yes,3
+18,Teenager,Male,8,8,PTSD,141,Yes,No,Yes,No,Yes,Anxiety,No,2,6,7,1,No,No,9
+20,Youth_adult,Male,8,35,PTSD,122,Yes,Yes,Yes,No,No,Depression,No,5,0,6,6,No,No,6
+33,Middle_aged,Female,5,22,Caffeine,128,Yes,Yes,No,No,Yes,Anxiety,Yes,1,5,8,5,No,Yes,7
+40,Middle_aged,Female,0,42,Caffeine,115,Yes,No,Yes,Yes,Yes,Depression,Yes,0,5,8,7,Yes,Yes,9
+28,Youth_adult,Male,6,28,Caffeine,89,No,Yes,Yes,Yes,No,Anxiety,No,4,1,8,5,No,Yes,7
+29,Youth_adult,Non-binary,6,27,Stress,85,Yes,No,No,Yes,Yes,PTSD,Yes,5,5,5,8,Yes,No,10
+27,Youth_adult,Male,9,26,PTSD,136,No,Yes,Yes,Yes,Yes,Depression,Yes,1,0,6,9,No,No,9
+49,Middle_aged,Non-binary,9,6,PTSD,80,Yes,Yes,Yes,Yes,No,Depression,No,0,2,7,1,No,No,1
+33,Middle_aged,Male,3,35,Social Anxiety,150,No,No,No,No,No,Anxiety,No,3,0,5,6,No,No,1
+25,Youth_adult,Male,7,15,Social Anxiety,137,Yes,Yes,No,No,No,Anxiety,Yes,2,6,4,4,No,No,3
+55,Middle_aged,Female,5,32,Social Anxiety,100,No,No,No,No,No,Anxiety,Yes,4,4,6,0,No,Yes,9
+29,Youth_adult,Male,3,36,Social Anxiety,159,Yes,Yes,Yes,Yes,No,Anxiety,Yes,1,3,4,2,No,Yes,1
+41,Middle_aged,Male,3,9,Caffeine,135,Yes,No,No,No,Yes,Anxiety,No,3,6,8,3,No,No,1
+45,Middle_aged,Male,1,42,Social Anxiety,99,Yes,Yes,Yes,No,Yes,Anxiety,Yes,2,1,8,1,Yes,No,5
+25,Youth_adult,Female,1,14,PTSD,133,No,Yes,Yes,No,Yes,Anxiety,No,2,5,5,6,No,Yes,8
+45,Middle_aged,Female,3,44,Caffeine,104,Yes,Yes,Yes,No,Yes,Depression,No,3,2,5,0,No,No,2
+53,Middle_aged,Male,4,28,Social Anxiety,107,Yes,Yes,Yes,No,No,PTSD,No,1,6,8,2,No,No,4
+43,Middle_aged,Female,7,39,Stress,84,No,No,No,No,No,Anxiety,Yes,2,3,5,8,No,Yes,6
+25,Youth_adult,Female,5,27,Phobia,100,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,4,2,7,1,No,No,1
+45,Middle_aged,Male,3,21,Phobia,97,Yes,Yes,No,No,No,Anxiety,No,0,1,6,4,No,No,4
+45,Middle_aged,Male,6,5,Phobia,126,Yes,Yes,No,Yes,Yes,Anxiety,No,4,5,8,3,No,Yes,4
+54,Middle_aged,Male,7,35,Caffeine,149,Yes,Yes,No,Yes,Yes,Anxiety,Yes,5,4,7,2,No,No,9
+58,Middle_aged,Male,1,35,Social Anxiety,136,No,No,Yes,Yes,No,Depression,No,2,6,4,4,Yes,Yes,9
+53,Middle_aged,Female,6,38,PTSD,98,No,No,No,Yes,Yes,PTSD,Yes,0,6,5,5,No,Yes,6
+44,Middle_aged,Male,1,13,PTSD,144,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,3,6,6,0,No,No,8
+34,Middle_aged,Female,1,26,PTSD,82,No,No,Yes,Yes,Yes,Anxiety,No,0,1,8,1,No,Yes,10
+26,Youth_adult,Female,7,17,Caffeine,121,Yes,Yes,No,Yes,Yes,Depression,Yes,0,2,4,0,No,Yes,4
+50,Middle_aged,Male,1,29,PTSD,100,Yes,Yes,Yes,No,No,Anxiety,No,0,2,7,2,Yes,Yes,10
+37,Middle_aged,Female,8,22,Stress,119,Yes,No,Yes,Yes,No,Depression,No,2,1,5,7,No,Yes,8
+30,Youth_adult,Male,0,16,Stress,146,Yes,Yes,No,No,Yes,Depression,No,5,6,8,7,No,Yes,3
+45,Middle_aged,Non-binary,8,44,Phobia,104,Yes,No,Yes,Yes,Yes,PTSD,No,5,0,7,3,No,No,2
+46,Middle_aged,Female,0,21,Phobia,134,No,No,No,No,No,Depression,No,1,1,5,5,No,Yes,6
+30,Youth_adult,Female,9,19,PTSD,131,No,Yes,Yes,No,No,Depression,Yes,5,5,4,8,No,No,5
+63,Senior_citizen,Female,9,19,PTSD,123,Yes,No,Yes,No,Yes,Anxiety,No,2,5,4,6,Yes,No,8
+52,Middle_aged,Male,1,19,Phobia,135,Yes,No,Yes,No,Yes,Depression,No,1,4,7,1,Yes,Yes,1
+23,Youth_adult,Female,5,43,Social Anxiety,134,No,Yes,Yes,Yes,No,Anxiety,Yes,3,1,6,1,Yes,No,10
+35,Middle_aged,Non-binary,5,17,PTSD,149,No,No,Yes,No,No,Anxiety,Yes,3,3,5,2,No,No,3
+22,Youth_adult,Female,0,21,PTSD,156,No,Yes,No,No,Yes,PTSD,Yes,3,5,8,7,No,Yes,7
+64,Senior_citizen,Female,6,36,PTSD,152,Yes,No,No,No,No,Depression,No,3,5,6,9,No,Yes,10
+42,Middle_aged,Female,7,13,PTSD,145,No,No,No,No,Yes,Anxiety,No,3,5,7,8,No,No,4
+19,Teenager,Male,1,44,Phobia,98,Yes,Yes,Yes,Yes,No,Anxiety,No,4,0,4,2,No,No,10
+27,Youth_adult,Male,7,24,Stress,86,Yes,Yes,No,No,No,Depression,No,2,3,4,8,No,Yes,5
+47,Middle_aged,Female,8,30,Phobia,142,Yes,No,No,Yes,No,Anxiety,No,1,6,6,9,No,Yes,8
+62,Senior_citizen,Male,5,31,PTSD,121,Yes,Yes,No,No,Yes,Anxiety,No,3,6,7,7,No,Yes,1
+22,Youth_adult,Female,4,25,Phobia,121,Yes,Yes,Yes,Yes,Yes,Anxiety,No,4,1,6,4,Yes,Yes,1
+50,Middle_aged,Non-binary,8,22,PTSD,138,Yes,Yes,No,No,Yes,PTSD,No,5,0,8,9,No,No,7
+18,Teenager,Male,8,17,Caffeine,99,Yes,Yes,No,Yes,No,Depression,No,4,5,6,2,No,Yes,9
+35,Middle_aged,Male,0,20,PTSD,152,No,Yes,Yes,Yes,Yes,Anxiety,No,4,6,5,6,No,Yes,4
+49,Middle_aged,Female,2,13,Stress,96,Yes,Yes,No,No,Yes,Anxiety,No,2,3,8,8,No,Yes,8
+64,Senior_citizen,Male,8,16,Caffeine,106,Yes,Yes,Yes,No,Yes,Anxiety,No,3,6,6,5,No,Yes,10
+28,Youth_adult,Female,1,42,Social Anxiety,126,Yes,No,No,No,No,Anxiety,No,4,3,5,2,No,Yes,7
+38,Middle_aged,Male,3,23,Phobia,81,No,Yes,No,Yes,Yes,Depression,No,4,0,4,4,No,Yes,2
+43,Middle_aged,Female,3,11,Social Anxiety,142,Yes,Yes,No,Yes,Yes,Anxiety,No,3,6,8,6,No,Yes,5
+42,Middle_aged,Male,1,39,Phobia,141,Yes,Yes,Yes,No,Yes,Depression,No,2,5,8,7,No,No,9
+39,Middle_aged,Female,2,22,PTSD,98,Yes,Yes,Yes,No,No,Anxiety,No,4,0,4,3,Yes,No,9
+44,Middle_aged,Female,2,20,Caffeine,96,No,Yes,No,No,No,PTSD,No,1,2,5,1,No,Yes,3
+30,Youth_adult,Female,0,43,PTSD,148,No,Yes,Yes,No,No,PTSD,Yes,0,5,7,9,Yes,No,3
+50,Middle_aged,Male,5,8,PTSD,118,Yes,Yes,Yes,No,No,Anxiety,Yes,5,0,8,1,No,Yes,2
+51,Middle_aged,Female,7,29,PTSD,150,Yes,No,No,No,No,PTSD,No,0,1,5,2,No,Yes,7
+58,Middle_aged,Female,2,36,PTSD,118,No,No,Yes,No,Yes,Anxiety,No,0,6,8,7,No,Yes,6
+52,Middle_aged,Male,4,44,PTSD,115,Yes,No,Yes,No,No,Anxiety,No,2,5,6,0,No,Yes,5
+18,Teenager,Male,0,17,Phobia,119,Yes,No,Yes,No,Yes,Anxiety,Yes,4,4,4,6,No,No,7
+38,Middle_aged,Male,9,21,PTSD,124,Yes,No,Yes,No,Yes,Depression,Yes,0,5,4,5,Yes,Yes,4
+23,Youth_adult,Female,6,41,Caffeine,83,Yes,Yes,No,No,No,Depression,Yes,0,2,5,1,Yes,Yes,5
+45,Middle_aged,Female,9,10,PTSD,104,Yes,No,No,Yes,Yes,Anxiety,Yes,5,0,5,8,No,No,9
+34,Middle_aged,Female,0,23,PTSD,148,Yes,Yes,No,Yes,Yes,Anxiety,No,3,4,8,4,No,No,9
+22,Youth_adult,Male,8,17,PTSD,109,Yes,No,No,Yes,Yes,PTSD,Yes,4,2,5,1,Yes,Yes,4
+48,Middle_aged,Male,7,30,Caffeine,155,No,No,No,No,No,Anxiety,No,4,1,5,2,Yes,Yes,6
+22,Youth_adult,Female,6,18,Social Anxiety,147,Yes,Yes,No,Yes,Yes,PTSD,No,5,5,4,6,No,Yes,2
+55,Middle_aged,Female,9,35,Caffeine,108,No,Yes,Yes,Yes,No,Anxiety,No,3,6,7,6,No,Yes,3
+20,Youth_adult,Non-binary,6,8,Stress,152,Yes,Yes,No,No,No,Anxiety,No,4,4,8,9,No,Yes,9
+40,Middle_aged,Male,4,43,Stress,147,Yes,No,Yes,No,No,Anxiety,No,1,6,5,0,No,Yes,6
+54,Middle_aged,Female,4,12,Stress,130,Yes,No,No,No,Yes,Anxiety,Yes,5,0,6,9,Yes,No,8
+54,Middle_aged,Male,4,29,PTSD,103,No,No,No,No,No,Depression,No,2,0,4,3,No,No,5
+27,Youth_adult,Male,0,17,Phobia,93,No,Yes,Yes,No,Yes,Depression,No,3,1,6,5,Yes,No,2
+27,Youth_adult,Female,7,36,Phobia,148,Yes,No,No,No,Yes,PTSD,Yes,5,2,4,7,No,Yes,7
+36,Middle_aged,Female,0,42,Phobia,97,No,Yes,Yes,No,Yes,Depression,Yes,0,4,6,2,No,Yes,6
+34,Middle_aged,Non-binary,3,42,PTSD,121,Yes,No,No,No,No,Anxiety,Yes,4,1,7,2,No,Yes,2
+38,Middle_aged,Male,8,32,Caffeine,136,No,Yes,Yes,Yes,Yes,Anxiety,Yes,1,2,6,7,No,No,6
+31,Middle_aged,Male,8,34,Phobia,91,No,Yes,No,No,Yes,Depression,No,1,3,5,7,No,Yes,8
+26,Youth_adult,Female,4,7,Social Anxiety,96,No,Yes,Yes,Yes,Yes,Anxiety,No,2,3,5,7,No,No,1
+63,Senior_citizen,Female,3,32,Stress,109,Yes,No,Yes,Yes,Yes,Anxiety,Yes,5,2,7,0,No,No,4
+18,Teenager,Male,2,7,Caffeine,154,Yes,No,Yes,No,No,Anxiety,No,1,0,6,7,No,No,1
+62,Senior_citizen,Male,2,38,Stress,102,Yes,Yes,Yes,Yes,No,Anxiety,No,5,0,4,7,No,No,2
+30,Youth_adult,Male,4,20,Phobia,80,Yes,Yes,Yes,No,No,Anxiety,Yes,4,3,8,1,No,No,1
+21,Youth_adult,Female,9,26,Caffeine,158,Yes,No,No,No,Yes,PTSD,No,4,0,6,8,Yes,No,6
+18,Teenager,Male,0,36,PTSD,111,Yes,Yes,Yes,No,Yes,PTSD,No,1,6,4,6,No,No,6
+57,Middle_aged,Male,4,42,Social Anxiety,88,Yes,No,Yes,No,No,Anxiety,No,4,0,4,7,No,Yes,1
+49,Middle_aged,Male,5,12,Phobia,94,Yes,Yes,Yes,No,Yes,Anxiety,No,5,2,8,1,No,Yes,4
+51,Middle_aged,Male,6,12,Phobia,107,Yes,Yes,No,Yes,No,PTSD,No,4,5,5,3,No,No,4
+45,Middle_aged,Male,8,10,Social Anxiety,103,Yes,No,No,No,Yes,Anxiety,Yes,0,2,8,6,No,No,8
+48,Middle_aged,Female,2,18,Social Anxiety,139,No,No,No,No,No,Anxiety,No,5,0,6,5,No,Yes,6
+25,Youth_adult,Male,1,36,PTSD,114,Yes,Yes,No,No,Yes,Anxiety,No,3,2,5,6,Yes,Yes,2
+56,Middle_aged,Female,2,39,Phobia,106,Yes,Yes,Yes,No,Yes,Anxiety,Yes,4,4,7,0,No,No,5
+43,Middle_aged,Male,8,14,PTSD,155,No,No,Yes,Yes,No,PTSD,No,4,3,4,7,No,No,4
+51,Middle_aged,Female,6,7,Phobia,99,Yes,Yes,Yes,Yes,No,PTSD,No,5,5,5,6,No,Yes,10
+20,Youth_adult,Female,8,16,Stress,144,Yes,No,No,Yes,Yes,Anxiety,Yes,2,4,5,3,No,No,4
+29,Youth_adult,Female,1,35,Caffeine,128,Yes,Yes,No,Yes,No,Anxiety,No,3,4,8,0,No,No,8
+18,Teenager,Female,4,33,Caffeine,80,Yes,Yes,Yes,No,No,Anxiety,Yes,3,0,6,7,Yes,No,5
+61,Senior_citizen,Male,3,9,Stress,89,No,No,Yes,No,Yes,Anxiety,No,3,0,5,9,No,Yes,3
+22,Youth_adult,Male,1,29,Caffeine,126,Yes,No,Yes,Yes,Yes,Anxiety,Yes,1,4,5,6,Yes,Yes,10
+47,Middle_aged,Female,8,35,Social Anxiety,138,Yes,Yes,Yes,No,Yes,Depression,No,0,4,7,7,No,Yes,4
+47,Middle_aged,Non-binary,8,25,Caffeine,141,Yes,No,No,No,Yes,Depression,Yes,0,1,4,9,No,Yes,1
+34,Middle_aged,Female,5,24,Caffeine,97,Yes,Yes,Yes,Yes,No,PTSD,Yes,2,1,5,0,No,Yes,6
+64,Senior_citizen,Female,5,43,Stress,125,No,Yes,No,Yes,Yes,PTSD,Yes,3,6,5,4,No,No,10
+40,Middle_aged,Female,7,26,PTSD,111,Yes,No,Yes,No,Yes,PTSD,No,3,3,7,8,No,Yes,4
+32,Middle_aged,Female,5,8,Caffeine,106,Yes,No,No,No,Yes,Anxiety,No,4,4,5,4,Yes,No,6
+54,Middle_aged,Male,0,17,PTSD,97,Yes,No,No,No,No,Anxiety,No,5,2,6,9,No,No,2
+38,Middle_aged,Female,3,24,Caffeine,118,Yes,Yes,No,Yes,Yes,Depression,No,1,5,7,2,Yes,Yes,5
+31,Middle_aged,Non-binary,6,17,PTSD,128,Yes,Yes,No,No,Yes,Anxiety,No,1,1,8,8,No,No,9
+19,Teenager,Male,1,21,Stress,123,No,Yes,No,Yes,Yes,Anxiety,Yes,2,0,7,8,Yes,No,8
+28,Youth_adult,Female,8,40,PTSD,151,No,Yes,No,Yes,No,Depression,No,0,4,6,3,No,No,3
+56,Middle_aged,Male,7,37,Stress,133,No,No,No,No,Yes,Anxiety,Yes,3,2,7,3,No,Yes,1
+55,Middle_aged,Female,7,5,Social Anxiety,113,No,Yes,No,Yes,No,Anxiety,No,5,5,8,7,No,No,10
+51,Middle_aged,Male,6,19,Stress,150,Yes,No,No,Yes,Yes,PTSD,No,2,2,6,6,Yes,Yes,3
+55,Middle_aged,Female,3,17,Social Anxiety,115,Yes,Yes,No,Yes,Yes,Anxiety,No,1,6,6,4,No,No,8
+51,Middle_aged,Female,1,21,Social Anxiety,97,No,Yes,No,Yes,No,Anxiety,Yes,1,2,4,5,No,Yes,3
+35,Middle_aged,Male,2,28,Stress,117,No,Yes,No,No,Yes,Anxiety,No,1,0,8,2,No,No,5
+47,Middle_aged,Female,5,12,PTSD,138,No,Yes,Yes,No,No,Depression,Yes,3,1,5,5,Yes,Yes,2
+32,Middle_aged,Female,4,31,Phobia,88,Yes,Yes,Yes,Yes,No,PTSD,Yes,3,2,4,7,No,Yes,1
+44,Middle_aged,Non-binary,7,27,Stress,152,Yes,No,Yes,Yes,No,Depression,Yes,3,5,6,9,No,No,10
+51,Middle_aged,Male,5,12,Caffeine,151,No,Yes,No,Yes,No,Depression,No,4,1,8,8,Yes,No,5
+55,Middle_aged,Male,5,12,PTSD,130,No,No,No,No,Yes,Anxiety,No,0,6,6,2,No,Yes,5
+50,Middle_aged,Male,0,30,PTSD,114,No,Yes,Yes,Yes,Yes,Depression,Yes,1,6,7,7,No,Yes,6
+41,Middle_aged,Non-binary,3,17,Caffeine,84,Yes,No,No,No,No,Depression,Yes,1,3,8,2,No,No,2
+32,Middle_aged,Non-binary,4,43,Phobia,93,Yes,Yes,No,Yes,No,Anxiety,No,4,0,6,1,Yes,No,9
+47,Middle_aged,Female,2,41,PTSD,109,Yes,No,Yes,Yes,No,PTSD,No,1,1,7,4,Yes,Yes,2
+59,Middle_aged,Female,8,32,Social Anxiety,83,No,Yes,No,No,Yes,Depression,Yes,1,6,6,3,Yes,No,2
+34,Middle_aged,Female,0,29,Phobia,118,Yes,No,No,No,Yes,Depression,Yes,3,6,8,4,No,Yes,5
+22,Youth_adult,Female,5,20,Caffeine,143,Yes,No,Yes,Yes,No,Anxiety,No,3,1,7,5,No,Yes,9
+46,Middle_aged,Male,5,6,Phobia,104,No,Yes,No,No,Yes,Depression,No,0,2,8,2,No,No,4
+21,Youth_adult,Female,9,22,Stress,107,Yes,Yes,No,No,Yes,Anxiety,No,1,5,5,0,No,No,6
+27,Youth_adult,Male,4,21,Phobia,155,No,Yes,Yes,No,Yes,Anxiety,No,2,2,5,3,Yes,No,2
+34,Middle_aged,Female,4,34,Social Anxiety,145,Yes,No,Yes,No,No,Depression,Yes,1,5,4,5,Yes,Yes,4
+27,Youth_adult,Female,9,43,Stress,157,No,Yes,No,No,Yes,Anxiety,Yes,1,6,6,1,No,No,9
+34,Middle_aged,Female,4,17,PTSD,101,Yes,Yes,Yes,No,No,Anxiety,Yes,0,6,8,1,Yes,Yes,2
+37,Middle_aged,Male,5,36,Caffeine,110,No,Yes,Yes,Yes,Yes,Depression,Yes,2,0,5,0,No,No,1
+41,Middle_aged,Male,7,33,Caffeine,102,No,Yes,Yes,No,No,Anxiety,No,1,1,4,8,No,Yes,4
+22,Youth_adult,Male,1,34,Phobia,127,Yes,No,No,No,No,Anxiety,No,5,4,4,2,Yes,Yes,4
+51,Middle_aged,Male,5,22,PTSD,99,Yes,Yes,No,Yes,Yes,Anxiety,No,5,6,6,1,No,No,1
+23,Youth_adult,Male,0,17,Stress,117,Yes,No,No,Yes,No,Depression,Yes,2,5,4,3,No,Yes,4
+19,Teenager,Non-binary,3,25,PTSD,134,Yes,No,Yes,Yes,Yes,Depression,No,5,5,5,5,No,No,3
+30,Youth_adult,Female,9,34,Stress,147,No,Yes,No,No,Yes,PTSD,No,3,2,8,0,No,No,2
+60,Middle_aged,Male,2,25,Caffeine,158,Yes,No,Yes,No,No,Anxiety,Yes,3,2,5,8,Yes,Yes,10
+60,Middle_aged,Male,8,21,Stress,80,Yes,Yes,Yes,No,Yes,Anxiety,No,2,6,7,8,No,No,4
+28,Youth_adult,Male,2,44,PTSD,86,Yes,No,Yes,Yes,Yes,Anxiety,Yes,1,6,6,7,No,Yes,8
+64,Senior_citizen,Female,5,23,PTSD,136,No,Yes,Yes,No,Yes,Depression,Yes,2,3,7,5,No,Yes,7
+40,Middle_aged,Female,0,19,Phobia,91,No,No,No,No,Yes,Anxiety,No,5,5,4,3,Yes,No,9
+33,Middle_aged,Non-binary,5,13,Social Anxiety,84,Yes,Yes,No,Yes,No,Anxiety,No,2,0,8,1,No,No,8
+48,Middle_aged,Female,3,14,Stress,129,Yes,Yes,Yes,No,Yes,Anxiety,Yes,5,1,7,7,No,Yes,1
+28,Youth_adult,Non-binary,7,35,Social Anxiety,121,Yes,Yes,No,No,No,Anxiety,Yes,3,1,5,6,No,No,2
+33,Middle_aged,Female,8,27,Caffeine,91,Yes,Yes,No,No,No,Depression,No,2,1,4,3,No,Yes,2
+25,Youth_adult,Male,3,34,Phobia,97,Yes,No,No,No,Yes,Depression,No,4,5,4,2,No,No,8
+21,Youth_adult,Non-binary,9,37,Phobia,145,Yes,Yes,Yes,No,Yes,Depression,No,5,2,7,5,No,No,4
+57,Middle_aged,Male,9,13,Stress,153,Yes,No,No,Yes,No,PTSD,Yes,4,0,6,0,No,Yes,9
+21,Youth_adult,Female,5,5,PTSD,158,Yes,Yes,Yes,No,Yes,Depression,Yes,3,1,5,1,Yes,No,2
+42,Middle_aged,Male,0,39,Phobia,96,Yes,No,No,Yes,Yes,Anxiety,Yes,1,5,5,6,No,Yes,4
+20,Youth_adult,Female,3,15,Stress,147,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,5,4,8,2,No,Yes,1
+49,Middle_aged,Female,6,38,Stress,150,Yes,Yes,No,Yes,No,Depression,Yes,1,6,8,0,No,No,3
+20,Youth_adult,Female,0,20,Social Anxiety,141,No,Yes,Yes,No,No,Depression,Yes,3,3,6,1,No,No,6
+44,Middle_aged,Female,7,13,Phobia,120,No,No,Yes,No,Yes,Depression,No,1,3,6,9,No,Yes,9
+46,Middle_aged,Male,9,36,Stress,113,Yes,Yes,No,Yes,Yes,Depression,Yes,5,1,8,9,No,No,1
+49,Middle_aged,Male,5,19,Social Anxiety,149,Yes,No,No,Yes,No,Depression,No,0,2,7,8,Yes,Yes,5
+36,Middle_aged,Male,4,16,PTSD,124,No,No,No,No,No,PTSD,Yes,5,3,6,6,Yes,Yes,2
+38,Middle_aged,Male,9,37,Social Anxiety,137,No,Yes,No,No,No,Depression,No,5,3,4,6,No,No,7
+22,Youth_adult,Female,8,18,Social Anxiety,130,Yes,No,Yes,No,No,PTSD,Yes,4,3,7,9,No,No,4
+35,Middle_aged,Male,1,12,Stress,113,Yes,Yes,No,No,Yes,Anxiety,No,0,3,4,7,No,No,5
+45,Middle_aged,Non-binary,4,12,Caffeine,123,Yes,Yes,Yes,No,No,Depression,Yes,0,1,4,7,No,Yes,8
+59,Middle_aged,Female,5,31,Caffeine,94,Yes,No,Yes,Yes,Yes,Anxiety,No,0,5,8,8,No,No,2
+39,Middle_aged,Female,6,16,PTSD,157,Yes,No,No,No,Yes,Anxiety,No,5,0,6,1,No,No,3
+38,Middle_aged,Male,4,5,Caffeine,149,Yes,No,No,Yes,No,PTSD,No,3,0,8,7,Yes,Yes,5
+23,Youth_adult,Female,8,44,Social Anxiety,129,Yes,Yes,No,No,Yes,PTSD,Yes,0,2,6,7,No,Yes,10
+18,Teenager,Non-binary,0,15,PTSD,111,Yes,Yes,No,Yes,No,Anxiety,No,2,5,8,4,No,No,4
+22,Youth_adult,Female,6,43,Stress,146,Yes,Yes,No,No,Yes,Depression,No,1,6,5,4,No,Yes,5
+58,Middle_aged,Female,9,35,Phobia,82,Yes,No,Yes,No,No,Anxiety,Yes,3,4,7,3,No,Yes,3
+29,Youth_adult,Female,6,21,Social Anxiety,153,Yes,Yes,Yes,No,No,Anxiety,No,2,0,5,4,No,No,9
+43,Middle_aged,Male,3,37,Social Anxiety,130,Yes,No,No,Yes,Yes,PTSD,No,5,4,4,1,No,No,8
+63,Senior_citizen,Female,8,36,PTSD,146,Yes,Yes,Yes,No,No,Anxiety,No,5,0,5,1,No,No,6
+51,Middle_aged,Male,4,33,Stress,155,No,Yes,Yes,Yes,Yes,Anxiety,No,2,0,7,4,No,No,1
+31,Middle_aged,Male,3,25,PTSD,127,Yes,Yes,Yes,Yes,No,Depression,No,4,2,4,2,No,No,4
+43,Middle_aged,Male,6,25,Social Anxiety,96,No,Yes,No,Yes,Yes,Anxiety,No,4,3,6,0,No,No,7
+62,Senior_citizen,Male,3,44,PTSD,86,No,Yes,Yes,No,No,Anxiety,No,2,2,5,8,No,Yes,10
+44,Middle_aged,Male,2,27,PTSD,92,Yes,No,No,No,Yes,Depression,No,4,0,4,1,Yes,Yes,5
+26,Youth_adult,Male,8,10,Caffeine,145,Yes,No,No,No,Yes,Anxiety,No,1,5,7,9,No,Yes,4
+43,Middle_aged,Non-binary,7,26,Stress,83,Yes,Yes,Yes,No,Yes,Anxiety,No,1,3,8,1,Yes,Yes,9
+64,Senior_citizen,Female,0,42,PTSD,89,No,Yes,No,No,Yes,PTSD,No,5,5,5,3,No,Yes,8
+39,Middle_aged,Non-binary,6,41,Stress,96,No,Yes,No,No,No,Anxiety,Yes,4,5,6,1,No,Yes,3
+64,Senior_citizen,Male,8,12,Caffeine,131,No,No,No,Yes,No,PTSD,Yes,0,5,8,6,Yes,Yes,6
+47,Middle_aged,Male,7,39,Stress,85,Yes,Yes,No,Yes,No,PTSD,Yes,2,3,7,9,No,Yes,4
+60,Middle_aged,Female,7,15,Social Anxiety,148,Yes,No,Yes,No,Yes,Anxiety,Yes,1,5,7,0,No,No,7
+34,Middle_aged,Male,5,28,PTSD,153,Yes,Yes,No,No,Yes,Anxiety,Yes,4,3,4,1,No,Yes,1
+43,Middle_aged,Male,3,25,Stress,88,Yes,Yes,Yes,No,Yes,Anxiety,No,4,4,6,4,No,No,1
+53,Middle_aged,Female,7,6,Phobia,156,Yes,No,No,No,No,PTSD,Yes,1,6,5,1,No,Yes,6
+18,Teenager,Male,2,44,Stress,100,Yes,Yes,No,Yes,No,Anxiety,No,1,0,6,8,No,No,10
+25,Youth_adult,Female,8,23,PTSD,103,No,Yes,No,Yes,Yes,PTSD,No,0,1,8,3,No,No,7
+52,Middle_aged,Female,1,43,Caffeine,83,Yes,Yes,Yes,No,Yes,PTSD,Yes,4,5,6,8,No,No,9
+32,Middle_aged,Male,1,32,Caffeine,103,Yes,Yes,Yes,Yes,Yes,Depression,Yes,4,2,4,0,Yes,No,7
+64,Senior_citizen,Male,6,21,PTSD,138,Yes,Yes,Yes,Yes,No,Anxiety,No,3,4,8,0,No,No,9
+39,Middle_aged,Female,9,10,Social Anxiety,82,No,No,Yes,No,No,Depression,No,5,2,6,0,No,Yes,10
+31,Middle_aged,Female,3,23,Social Anxiety,147,No,No,Yes,Yes,No,Anxiety,No,0,1,8,3,No,No,9
+43,Middle_aged,Male,9,42,Caffeine,119,Yes,Yes,No,No,Yes,Anxiety,No,1,3,6,8,Yes,No,8
+45,Middle_aged,Non-binary,7,32,Caffeine,127,Yes,No,Yes,No,No,Depression,No,1,1,4,7,No,No,7
+40,Middle_aged,Male,8,6,PTSD,133,Yes,Yes,No,No,No,Depression,No,2,2,6,6,No,Yes,3
+31,Middle_aged,Female,6,42,Social Anxiety,114,No,Yes,Yes,Yes,Yes,Depression,No,5,1,6,0,No,No,3
+41,Middle_aged,Non-binary,4,41,Caffeine,135,Yes,Yes,No,Yes,No,Depression,No,1,0,5,2,No,No,5
+19,Teenager,Male,7,8,Social Anxiety,119,Yes,Yes,No,No,Yes,Anxiety,No,4,1,6,8,No,No,7
+62,Senior_citizen,Male,3,26,Caffeine,156,Yes,Yes,No,Yes,Yes,Depression,Yes,1,5,6,8,No,No,10
+43,Middle_aged,Male,1,30,Stress,147,Yes,No,No,Yes,No,Depression,No,4,0,7,4,No,Yes,7
+31,Middle_aged,Male,5,40,Phobia,125,No,Yes,Yes,Yes,Yes,Anxiety,No,4,5,5,5,No,Yes,1
+24,Youth_adult,Male,8,17,PTSD,157,Yes,Yes,No,Yes,No,PTSD,No,0,6,6,5,No,Yes,8
+20,Youth_adult,Female,0,36,Stress,92,Yes,Yes,Yes,Yes,No,Depression,Yes,1,6,5,9,Yes,Yes,1
+64,Senior_citizen,Male,9,21,PTSD,106,Yes,No,Yes,No,Yes,Depression,Yes,0,1,6,3,No,Yes,4
+40,Middle_aged,Female,6,40,Caffeine,85,Yes,No,No,Yes,No,PTSD,Yes,5,0,4,0,No,Yes,2
+63,Senior_citizen,Non-binary,9,23,Phobia,96,No,Yes,Yes,Yes,No,PTSD,Yes,4,0,4,4,No,Yes,5
+60,Middle_aged,Female,8,39,Phobia,115,Yes,Yes,No,No,Yes,PTSD,Yes,5,6,5,0,No,Yes,6
+64,Senior_citizen,Female,9,44,Caffeine,81,No,Yes,Yes,No,Yes,Anxiety,No,1,1,5,0,No,Yes,4
+62,Senior_citizen,Male,8,32,Caffeine,156,No,Yes,Yes,Yes,Yes,Anxiety,Yes,5,4,6,4,Yes,No,4
+35,Middle_aged,Female,9,5,Social Anxiety,131,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,5,3,8,4,No,No,7
+55,Middle_aged,Female,2,22,Caffeine,145,Yes,Yes,Yes,No,Yes,Anxiety,Yes,1,3,6,6,No,No,4
+52,Middle_aged,Male,4,44,PTSD,131,Yes,Yes,Yes,No,Yes,Anxiety,No,0,3,6,1,Yes,Yes,2
+32,Middle_aged,Male,7,37,Caffeine,122,No,Yes,Yes,No,Yes,Depression,Yes,0,0,8,5,Yes,No,4
+42,Middle_aged,Female,7,16,PTSD,101,Yes,Yes,Yes,No,No,Anxiety,Yes,4,6,8,1,Yes,No,7
+54,Middle_aged,Male,3,12,Caffeine,134,Yes,No,No,Yes,Yes,Anxiety,No,4,3,8,9,No,No,1
+45,Middle_aged,Male,0,28,Social Anxiety,146,Yes,No,Yes,No,No,Anxiety,No,1,6,4,4,Yes,No,4
+27,Youth_adult,Male,0,20,PTSD,139,No,Yes,No,Yes,No,Depression,Yes,1,0,7,3,No,No,6
+56,Middle_aged,Male,3,8,Stress,137,Yes,Yes,Yes,No,No,PTSD,Yes,3,6,8,9,No,No,8
+34,Middle_aged,Female,5,42,PTSD,91,Yes,Yes,No,No,Yes,PTSD,Yes,3,4,8,4,No,Yes,8
+56,Middle_aged,Female,7,31,Social Anxiety,148,Yes,Yes,Yes,No,No,Anxiety,No,2,1,6,1,No,Yes,9
+39,Middle_aged,Female,5,13,PTSD,118,Yes,No,Yes,Yes,No,Anxiety,Yes,4,6,4,7,No,No,5
+43,Middle_aged,Male,8,20,PTSD,92,No,Yes,No,Yes,No,Anxiety,No,5,6,8,7,No,Yes,2
+61,Senior_citizen,Male,8,16,Caffeine,120,Yes,No,Yes,No,Yes,Anxiety,Yes,2,1,6,5,No,Yes,3
+42,Middle_aged,Female,1,35,Caffeine,136,No,No,No,No,Yes,Anxiety,No,2,0,6,2,No,No,2
+34,Middle_aged,Male,9,28,PTSD,132,Yes,Yes,Yes,No,No,Anxiety,Yes,0,0,6,3,No,Yes,9
+30,Youth_adult,Male,0,18,Social Anxiety,91,Yes,Yes,No,Yes,Yes,Depression,Yes,5,6,6,0,No,No,6
+37,Middle_aged,Female,1,29,Phobia,92,Yes,Yes,Yes,Yes,Yes,PTSD,No,0,4,5,8,Yes,No,1
+42,Middle_aged,Male,4,38,Caffeine,153,Yes,Yes,Yes,No,Yes,Depression,Yes,3,3,5,9,No,Yes,3
+21,Youth_adult,Female,3,7,Stress,136,Yes,Yes,No,Yes,No,Anxiety,Yes,2,4,8,4,No,Yes,7
+27,Youth_adult,Male,3,28,Social Anxiety,119,Yes,Yes,Yes,No,No,Anxiety,No,3,1,5,7,No,Yes,7
+20,Youth_adult,Male,8,13,PTSD,159,Yes,No,No,No,Yes,Depression,No,5,1,6,2,No,Yes,5
+58,Middle_aged,Male,7,30,PTSD,124,Yes,Yes,Yes,No,No,PTSD,Yes,5,5,8,3,No,Yes,3
+62,Senior_citizen,Non-binary,5,24,Stress,114,Yes,Yes,No,No,No,Anxiety,No,4,3,6,3,Yes,Yes,7
+35,Middle_aged,Female,0,44,Caffeine,82,No,No,Yes,No,Yes,PTSD,No,1,6,5,7,No,Yes,5
+64,Senior_citizen,Non-binary,1,14,Social Anxiety,84,Yes,No,No,Yes,No,PTSD,No,0,1,6,8,No,Yes,6
+53,Middle_aged,Female,5,23,Stress,90,Yes,Yes,No,No,No,Depression,No,4,5,4,2,No,No,3
+64,Senior_citizen,Male,1,7,Caffeine,150,Yes,No,Yes,Yes,No,PTSD,No,4,0,4,6,No,No,6
+39,Middle_aged,Female,9,28,Social Anxiety,135,No,Yes,Yes,No,Yes,Depression,Yes,0,1,7,8,No,No,7
+51,Middle_aged,Female,4,9,PTSD,89,No,Yes,Yes,Yes,No,Depression,No,0,2,8,1,No,No,8
+64,Senior_citizen,Female,4,7,Social Anxiety,113,Yes,Yes,No,No,Yes,PTSD,Yes,5,3,7,3,No,Yes,2
+25,Youth_adult,Male,5,31,PTSD,146,No,Yes,Yes,Yes,Yes,Anxiety,Yes,5,5,4,2,No,No,2
+57,Middle_aged,Female,5,20,Phobia,151,Yes,No,Yes,Yes,Yes,Anxiety,No,2,3,6,7,No,Yes,6
+61,Senior_citizen,Male,5,19,Social Anxiety,110,Yes,No,Yes,No,No,Depression,Yes,3,3,4,3,Yes,Yes,8
+36,Middle_aged,Male,1,39,Phobia,154,No,No,Yes,Yes,No,Anxiety,No,5,2,6,8,No,No,5
+59,Middle_aged,Female,9,16,Social Anxiety,150,No,Yes,No,No,Yes,Anxiety,No,4,4,5,0,No,Yes,1
+58,Middle_aged,Female,2,30,Phobia,145,Yes,Yes,No,No,Yes,Depression,No,2,0,8,0,Yes,Yes,1
+54,Middle_aged,Male,5,38,PTSD,149,No,Yes,No,Yes,No,Anxiety,Yes,2,3,4,3,Yes,No,10
+23,Youth_adult,Male,7,27,PTSD,120,Yes,Yes,No,No,Yes,Anxiety,Yes,4,1,4,2,No,No,9
+43,Middle_aged,Female,0,35,Caffeine,142,No,No,No,Yes,No,Anxiety,No,5,0,6,2,No,Yes,4
+51,Middle_aged,Female,0,24,Phobia,111,Yes,No,Yes,Yes,Yes,Anxiety,No,4,1,4,9,No,Yes,10
+62,Senior_citizen,Female,1,16,PTSD,99,Yes,Yes,Yes,No,Yes,Depression,Yes,1,0,7,1,No,No,1
+23,Youth_adult,Non-binary,5,27,Phobia,136,Yes,Yes,No,No,No,Anxiety,Yes,5,6,8,9,No,No,8
+54,Middle_aged,Female,8,8,PTSD,129,Yes,Yes,No,Yes,Yes,Anxiety,No,3,0,4,9,Yes,Yes,2
+50,Middle_aged,Male,3,27,Phobia,159,Yes,Yes,No,No,Yes,PTSD,Yes,4,5,6,1,Yes,No,2
+39,Middle_aged,Female,2,5,PTSD,104,Yes,Yes,Yes,No,Yes,Anxiety,No,5,1,9,7,Yes,No,1
+38,Middle_aged,Male,7,29,PTSD,91,Yes,Yes,Yes,No,No,Depression,No,0,1,7,0,Yes,Yes,1
+23,Youth_adult,Male,9,6,Stress,150,Yes,Yes,Yes,Yes,No,PTSD,No,1,6,8,7,Yes,No,9
+23,Youth_adult,Female,8,34,PTSD,118,Yes,Yes,No,No,Yes,Anxiety,Yes,3,0,4,9,No,No,1
+21,Youth_adult,Male,4,7,Stress,96,Yes,Yes,No,No,Yes,Depression,Yes,5,3,5,2,No,Yes,6
+47,Middle_aged,Non-binary,8,25,PTSD,124,Yes,Yes,No,No,No,Depression,Yes,0,1,4,1,No,No,7
+28,Youth_adult,Female,1,29,Phobia,90,No,No,Yes,No,Yes,Depression,No,5,6,5,8,No,Yes,4
+47,Middle_aged,Female,2,24,PTSD,149,No,Yes,No,No,No,Depression,No,0,2,7,4,No,No,5
+48,Middle_aged,Female,6,26,Stress,102,No,No,Yes,Yes,Yes,Anxiety,No,3,2,4,4,No,No,4
+41,Middle_aged,Female,6,25,Phobia,149,Yes,Yes,Yes,No,Yes,PTSD,No,1,0,6,5,No,Yes,4
+26,Youth_adult,Female,5,37,PTSD,117,No,Yes,No,Yes,No,PTSD,Yes,0,4,5,3,No,No,10
+20,Youth_adult,Female,5,42,PTSD,81,Yes,Yes,Yes,Yes,Yes,Anxiety,No,2,0,8,6,Yes,No,1
+48,Middle_aged,Male,1,19,PTSD,158,Yes,Yes,Yes,No,No,Anxiety,No,3,6,4,6,No,Yes,6
+57,Middle_aged,Female,9,19,Phobia,151,Yes,No,No,Yes,Yes,Anxiety,No,3,0,5,8,No,Yes,10
+54,Middle_aged,Male,5,29,Stress,116,No,Yes,No,No,Yes,Anxiety,Yes,4,3,7,5,No,Yes,10
+53,Middle_aged,Female,3,25,Stress,128,Yes,No,Yes,No,No,Depression,No,1,3,4,0,No,No,7
+41,Middle_aged,Female,2,28,PTSD,131,Yes,No,No,Yes,Yes,Anxiety,No,2,5,6,8,No,No,7
+48,Middle_aged,Female,1,9,Phobia,112,Yes,Yes,Yes,No,No,Anxiety,No,2,6,6,9,No,No,8
+23,Youth_adult,Male,0,10,Social Anxiety,101,No,Yes,No,No,Yes,PTSD,Yes,4,4,8,8,Yes,Yes,7
+19,Teenager,Male,4,27,PTSD,84,Yes,No,No,No,No,Anxiety,No,0,6,7,4,No,No,6
+37,Middle_aged,Female,1,8,PTSD,97,Yes,Yes,No,No,No,PTSD,Yes,0,6,7,6,Yes,Yes,8
+45,Middle_aged,Male,1,31,Phobia,117,Yes,No,No,Yes,Yes,PTSD,No,2,4,8,0,No,Yes,3
+28,Youth_adult,Male,6,22,Social Anxiety,116,Yes,Yes,Yes,No,No,Anxiety,No,1,6,8,3,Yes,Yes,9
+21,Youth_adult,Male,7,25,Stress,143,Yes,Yes,Yes,No,No,PTSD,No,0,4,7,9,No,Yes,3
+32,Middle_aged,Non-binary,9,32,Caffeine,89,Yes,Yes,Yes,Yes,Yes,PTSD,No,3,4,6,3,Yes,No,4
+23,Youth_adult,Female,7,39,Caffeine,158,No,Yes,Yes,No,No,Anxiety,No,5,4,7,4,No,No,10
+47,Middle_aged,Male,3,26,Phobia,121,Yes,No,No,No,No,Anxiety,Yes,4,6,5,5,Yes,No,6
+55,Middle_aged,Male,0,44,Social Anxiety,127,Yes,Yes,Yes,Yes,Yes,Depression,Yes,1,6,8,3,Yes,No,8
+19,Teenager,Male,6,27,Social Anxiety,123,Yes,No,Yes,Yes,Yes,Anxiety,No,0,0,7,5,No,Yes,3
+32,Middle_aged,Female,0,7,PTSD,95,Yes,Yes,Yes,No,Yes,Depression,No,5,6,5,9,Yes,No,10
+28,Youth_adult,Female,3,44,Stress,133,Yes,Yes,No,Yes,Yes,Anxiety,Yes,2,0,4,6,Yes,No,6
+25,Youth_adult,Male,7,14,PTSD,114,Yes,Yes,Yes,No,No,Depression,Yes,4,5,4,2,Yes,No,5
+43,Middle_aged,Male,1,29,Social Anxiety,107,Yes,Yes,No,Yes,Yes,Depression,No,0,2,5,8,No,Yes,5
+62,Senior_citizen,Male,5,12,PTSD,81,No,Yes,Yes,No,No,Depression,No,2,2,5,7,No,No,5
+61,Senior_citizen,Female,5,15,Caffeine,92,Yes,Yes,Yes,Yes,Yes,PTSD,No,0,5,6,0,Yes,No,9
+22,Youth_adult,Female,8,9,PTSD,120,Yes,No,Yes,Yes,Yes,Depression,Yes,4,5,5,1,Yes,Yes,7
+23,Youth_adult,Male,4,41,Stress,159,No,Yes,No,No,No,PTSD,No,3,1,7,1,No,No,9
+43,Middle_aged,Male,9,42,Stress,138,Yes,Yes,No,No,No,PTSD,No,3,0,5,9,No,No,9
+21,Youth_adult,Male,3,33,PTSD,148,No,No,No,No,No,Depression,No,5,4,4,8,No,Yes,6
+36,Middle_aged,Non-binary,4,9,Phobia,132,Yes,No,Yes,No,Yes,Anxiety,No,2,1,6,8,No,Yes,6
+37,Middle_aged,Male,9,13,Social Anxiety,124,Yes,Yes,Yes,Yes,Yes,PTSD,Yes,3,3,8,8,No,No,4
+50,Middle_aged,Female,4,6,Phobia,99,No,Yes,No,Yes,Yes,Anxiety,No,4,0,6,0,No,Yes,8
+37,Middle_aged,Female,7,5,PTSD,103,Yes,No,Yes,No,No,Anxiety,Yes,2,6,6,6,No,No,2
+29,Youth_adult,Male,9,44,Social Anxiety,140,Yes,Yes,No,No,Yes,Depression,Yes,0,5,6,2,No,No,5
+64,Senior_citizen,Male,7,34,PTSD,137,No,Yes,No,No,No,Anxiety,No,1,2,5,8,No,Yes,1
+18,Teenager,Male,1,15,Phobia,106,Yes,Yes,Yes,Yes,No,PTSD,No,0,0,5,7,No,No,10
+43,Middle_aged,Female,6,32,Phobia,105,Yes,No,No,No,Yes,PTSD,No,4,5,5,2,No,No,2
+31,Middle_aged,Female,7,16,PTSD,86,Yes,Yes,Yes,Yes,No,Anxiety,No,5,0,6,0,No,No,1
+55,Middle_aged,Female,5,43,Caffeine,121,No,No,Yes,No,No,PTSD,Yes,2,6,7,8,No,No,6
+54,Middle_aged,Female,4,30,PTSD,126,No,Yes,Yes,No,No,Anxiety,No,0,0,7,9,No,No,2
+28,Youth_adult,Male,8,17,Phobia,132,Yes,No,No,Yes,Yes,PTSD,Yes,2,6,5,0,Yes,Yes,4
+53,Middle_aged,Non-binary,2,12,Social Anxiety,138,Yes,Yes,Yes,No,Yes,Depression,No,3,0,7,2,No,Yes,5
+30,Youth_adult,Female,9,32,Caffeine,117,No,Yes,No,Yes,Yes,Anxiety,Yes,1,3,5,5,No,Yes,7
+60,Middle_aged,Male,3,34,PTSD,148,Yes,No,No,No,Yes,Anxiety,No,4,2,4,5,No,Yes,10
+20,Youth_adult,Non-binary,8,13,PTSD,132,Yes,Yes,No,Yes,No,Anxiety,Yes,0,0,5,9,No,No,1
+50,Middle_aged,Female,5,43,Phobia,94,No,Yes,No,No,No,Depression,No,1,5,7,3,Yes,Yes,5
+23,Youth_adult,Female,7,35,Phobia,105,No,Yes,Yes,Yes,Yes,Depression,No,4,3,4,1,Yes,No,4
+27,Youth_adult,Female,6,25,PTSD,127,No,Yes,Yes,No,No,Anxiety,No,4,1,7,9,No,Yes,7
+22,Youth_adult,Female,1,38,PTSD,98,Yes,Yes,Yes,No,No,Anxiety,No,5,0,8,5,No,Yes,10
+40,Middle_aged,Female,2,35,Phobia,88,Yes,No,No,No,Yes,Anxiety,No,3,6,5,9,No,No,7
+27,Youth_adult,Male,0,29,Stress,143,Yes,Yes,No,Yes,Yes,PTSD,No,5,3,6,4,Yes,Yes,8
+61,Senior_citizen,Male,8,16,Caffeine,133,Yes,Yes,No,No,No,PTSD,No,5,4,5,5,No,No,4
+19,Teenager,Non-binary,6,5,Stress,130,Yes,Yes,No,Yes,No,Anxiety,No,2,1,5,6,No,Yes,4
+30,Youth_adult,Male,0,26,Caffeine,118,No,No,No,No,No,Depression,Yes,2,2,4,8,No,No,10
+57,Middle_aged,Male,2,44,PTSD,83,Yes,No,Yes,Yes,Yes,Anxiety,Yes,1,0,8,6,No,No,5
+19,Teenager,Male,3,41,PTSD,82,No,Yes,No,No,Yes,Anxiety,Yes,3,0,6,3,No,No,5
+37,Middle_aged,Male,3,5,Phobia,143,Yes,Yes,No,Yes,Yes,Anxiety,Yes,4,3,7,9,No,Yes,3
+18,Teenager,Female,4,5,Phobia,108,Yes,No,Yes,Yes,No,Depression,No,3,2,4,4,No,Yes,5
+54,Middle_aged,Non-binary,2,25,Phobia,90,Yes,Yes,No,Yes,No,Anxiety,Yes,3,4,8,5,Yes,No,5
+26,Youth_adult,Male,2,19,PTSD,137,Yes,No,Yes,No,Yes,PTSD,Yes,1,1,8,8,No,No,8
+34,Middle_aged,Male,0,21,Caffeine,154,Yes,No,No,Yes,No,PTSD,Yes,2,5,7,4,No,Yes,7
+26,Youth_adult,Male,6,26,Phobia,106,No,No,No,No,No,Depression,No,3,2,8,4,No,Yes,8
+28,Youth_adult,Female,9,42,Stress,100,No,Yes,No,No,No,Anxiety,No,3,0,4,6,No,Yes,5
+32,Middle_aged,Female,0,39,Phobia,118,Yes,No,Yes,No,No,Anxiety,Yes,3,3,6,1,No,Yes,2
+41,Middle_aged,Male,1,20,PTSD,125,Yes,No,No,No,Yes,Anxiety,No,0,4,7,2,No,No,8
+55,Middle_aged,Female,3,12,PTSD,145,No,Yes,No,Yes,No,Depression,Yes,3,3,7,1,No,Yes,9
+52,Middle_aged,Female,3,21,Stress,115,Yes,Yes,Yes,No,Yes,Anxiety,No,3,1,8,9,No,Yes,2
+47,Middle_aged,Female,4,21,Phobia,154,Yes,Yes,No,Yes,Yes,Anxiety,No,4,6,5,9,No,No,1
+48,Middle_aged,Non-binary,1,30,Phobia,144,Yes,Yes,No,No,No,Depression,Yes,5,6,4,1,Yes,Yes,6
+22,Youth_adult,Male,3,17,Social Anxiety,142,No,Yes,No,Yes,No,Anxiety,No,0,2,5,2,No,No,3
+61,Senior_citizen,Female,0,21,Caffeine,114,Yes,Yes,Yes,No,No,Depression,No,3,3,8,5,No,No,1
+31,Middle_aged,Female,1,42,Stress,110,Yes,Yes,Yes,Yes,No,Anxiety,No,5,5,8,4,Yes,Yes,6
+28,Youth_adult,Female,0,21,Social Anxiety,107,No,Yes,No,No,No,PTSD,No,3,5,6,4,Yes,No,8
+26,Youth_adult,Female,9,18,PTSD,80,Yes,Yes,Yes,Yes,No,Depression,Yes,1,6,6,1,No,Yes,9
+51,Middle_aged,Female,9,10,Caffeine,104,Yes,No,Yes,No,Yes,Depression,Yes,1,6,7,1,No,Yes,6
+29,Youth_adult,Female,3,39,Stress,122,Yes,No,No,Yes,No,Depression,Yes,5,3,7,0,No,Yes,6
+52,Middle_aged,Male,3,18,Phobia,146,No,Yes,No,No,Yes,Anxiety,Yes,0,0,4,2,Yes,Yes,1
+52,Middle_aged,Female,6,12,Stress,142,Yes,Yes,No,No,Yes,PTSD,Yes,4,3,7,6,Yes,Yes,5
+18,Teenager,Non-binary,9,19,Phobia,130,No,Yes,Yes,No,Yes,Anxiety,No,0,4,6,4,No,Yes,3
+57,Middle_aged,Non-binary,8,31,Caffeine,81,Yes,No,Yes,No,No,Anxiety,Yes,0,2,6,6,Yes,No,7
+39,Middle_aged,Male,8,17,Phobia,143,Yes,No,Yes,No,No,PTSD,No,1,1,4,8,Yes,No,9
+46,Middle_aged,Male,4,35,PTSD,153,No,No,Yes,No,No,Anxiety,No,1,5,7,5,Yes,No,6
+25,Youth_adult,Male,9,39,PTSD,148,Yes,Yes,No,No,No,Anxiety,No,4,3,8,1,Yes,No,5
+28,Youth_adult,Female,0,10,Phobia,88,Yes,No,No,No,Yes,Anxiety,No,3,4,7,0,Yes,Yes,7
+58,Middle_aged,Female,0,9,PTSD,81,Yes,Yes,Yes,No,No,Anxiety,No,4,6,7,0,No,Yes,9
+54,Middle_aged,Male,5,26,PTSD,113,Yes,No,Yes,Yes,No,Anxiety,No,3,5,6,9,Yes,Yes,5
+31,Middle_aged,Female,1,27,Caffeine,139,Yes,Yes,Yes,No,No,Anxiety,No,5,5,7,8,No,Yes,5
+47,Middle_aged,Female,7,29,Caffeine,140,Yes,No,Yes,No,No,Depression,No,5,1,6,5,No,No,10
+52,Middle_aged,Female,8,38,Stress,110,Yes,Yes,Yes,Yes,No,PTSD,No,2,5,8,5,No,No,4
+38,Middle_aged,Female,3,30,PTSD,89,No,No,No,No,No,Anxiety,Yes,1,4,6,3,No,Yes,5
+54,Middle_aged,Female,4,9,PTSD,155,Yes,No,No,Yes,No,PTSD,No,2,5,7,1,No,Yes,7
+22,Youth_adult,Female,7,30,Social Anxiety,115,No,Yes,No,Yes,Yes,Anxiety,No,2,5,7,9,No,Yes,3
+36,Middle_aged,Male,2,24,Social Anxiety,128,Yes,Yes,Yes,No,No,Anxiety,Yes,1,3,7,2,No,Yes,4
+31,Middle_aged,Female,4,10,PTSD,149,Yes,No,No,No,Yes,Anxiety,Yes,2,3,7,2,No,Yes,9
+43,Middle_aged,Female,2,10,PTSD,128,Yes,Yes,No,No,Yes,Depression,No,0,6,6,7,No,No,2
+21,Youth_adult,Female,9,22,Social Anxiety,82,Yes,Yes,No,No,No,Depression,No,3,2,8,5,No,Yes,8
+42,Middle_aged,Female,2,8,PTSD,153,Yes,Yes,Yes,No,Yes,Depression,Yes,4,0,6,6,Yes,No,9
+62,Senior_citizen,Female,2,21,Phobia,84,No,Yes,No,Yes,No,PTSD,No,1,4,8,8,No,Yes,5
+59,Middle_aged,Male,6,18,Social Anxiety,140,No,Yes,No,Yes,Yes,Depression,No,0,0,7,0,No,Yes,7
+42,Middle_aged,Female,6,18,PTSD,105,No,Yes,No,No,Yes,Depression,No,5,0,4,1,No,No,6
+35,Middle_aged,Male,6,17,Phobia,151,Yes,Yes,Yes,Yes,Yes,Anxiety,No,4,5,8,8,Yes,No,1
+57,Middle_aged,Male,9,11,PTSD,84,No,Yes,Yes,No,Yes,Anxiety,No,4,6,6,4,No,Yes,8
+25,Youth_adult,Female,7,19,Caffeine,94,Yes,No,Yes,No,No,Anxiety,No,4,1,8,3,No,No,9
+56,Middle_aged,Non-binary,4,23,Stress,95,Yes,No,Yes,Yes,Yes,PTSD,Yes,2,1,7,0,Yes,Yes,10
+57,Middle_aged,Male,4,39,Social Anxiety,80,No,No,No,No,Yes,Depression,No,2,5,4,8,No,Yes,1
+31,Middle_aged,Male,3,21,Caffeine,95,Yes,Yes,Yes,No,Yes,Anxiety,No,2,6,6,8,No,No,8
+49,Middle_aged,Female,6,39,PTSD,116,Yes,No,Yes,No,Yes,Anxiety,No,2,4,6,3,No,No,3
+55,Middle_aged,Male,9,23,PTSD,82,Yes,Yes,Yes,No,No,Depression,No,0,0,8,8,No,Yes,6
+50,Middle_aged,Female,3,24,Stress,131,Yes,Yes,Yes,No,Yes,Depression,Yes,2,2,7,9,No,Yes,10
+40,Middle_aged,Female,1,40,Caffeine,126,No,No,Yes,Yes,No,Anxiety,No,1,6,5,0,No,No,8
+32,Middle_aged,Female,3,39,Stress,92,Yes,No,No,No,No,Anxiety,Yes,4,0,7,4,No,Yes,5
+50,Middle_aged,Male,7,36,Social Anxiety,159,No,No,No,No,No,PTSD,Yes,0,1,6,0,No,Yes,8
+42,Middle_aged,Male,8,44,PTSD,134,Yes,No,Yes,No,No,Depression,Yes,5,0,4,3,No,No,7
+34,Middle_aged,Female,2,28,PTSD,100,Yes,Yes,Yes,No,Yes,Depression,Yes,2,3,5,4,No,No,7
+50,Middle_aged,Female,6,21,PTSD,145,Yes,Yes,Yes,No,Yes,PTSD,No,5,3,5,2,No,Yes,7
+64,Senior_citizen,Male,8,11,Stress,133,Yes,No,Yes,Yes,No,Anxiety,Yes,4,2,5,1,Yes,No,9
+19,Teenager,Female,3,5,Caffeine,106,Yes,Yes,No,No,No,Anxiety,Yes,0,4,4,5,Yes,No,6
+31,Middle_aged,Male,9,39,Social Anxiety,117,No,Yes,No,No,No,Depression,No,4,0,4,2,No,Yes,6
+57,Middle_aged,Female,2,36,Social Anxiety,137,No,No,No,Yes,No,PTSD,Yes,5,3,8,9,No,No,9
+57,Middle_aged,Male,4,40,PTSD,141,No,No,No,Yes,Yes,Anxiety,Yes,0,4,5,0,No,No,6
+56,Middle_aged,Non-binary,0,17,Caffeine,125,No,Yes,Yes,No,Yes,Anxiety,Yes,3,6,5,4,Yes,Yes,7
+23,Youth_adult,Male,2,10,Caffeine,90,No,No,No,No,No,Depression,Yes,0,6,5,1,No,Yes,7
+23,Youth_adult,Male,7,18,Stress,151,Yes,No,No,No,No,Anxiety,Yes,2,3,6,1,No,No,2
+20,Youth_adult,Male,7,41,PTSD,87,No,No,No,No,Yes,Anxiety,Yes,5,4,6,3,No,No,8
+24,Youth_adult,Male,3,19,PTSD,150,Yes,Yes,Yes,No,No,Anxiety,No,4,4,5,3,Yes,Yes,6
+25,Youth_adult,Female,1,8,Phobia,143,Yes,Yes,No,No,Yes,PTSD,Yes,4,3,7,3,No,No,4
+59,Middle_aged,Non-binary,7,44,PTSD,100,Yes,Yes,No,No,Yes,Anxiety,Yes,4,5,7,6,Yes,No,7
+32,Middle_aged,Male,7,20,Social Anxiety,151,Yes,Yes,No,Yes,No,Depression,No,1,1,5,0,Yes,No,8
+64,Senior_citizen,Male,9,32,Stress,142,Yes,Yes,Yes,No,No,Anxiety,No,1,4,6,7,No,No,1
+46,Middle_aged,Female,3,20,Caffeine,143,No,Yes,No,No,No,PTSD,No,2,6,6,9,Yes,Yes,10
+50,Middle_aged,Female,2,8,PTSD,99,Yes,Yes,No,No,Yes,Depression,No,3,5,5,8,Yes,Yes,4
+47,Middle_aged,Female,1,30,Stress,87,Yes,No,No,No,Yes,Depression,Yes,1,0,7,9,No,No,4
+56,Middle_aged,Male,8,32,PTSD,137,Yes,Yes,No,No,No,Depression,No,0,5,8,5,Yes,Yes,10
+44,Middle_aged,Male,0,36,Caffeine,125,Yes,No,No,Yes,Yes,Depression,Yes,5,3,7,3,No,No,9
+53,Middle_aged,Female,6,6,PTSD,110,Yes,No,Yes,Yes,No,Anxiety,Yes,2,5,5,5,Yes,Yes,6
+46,Middle_aged,Male,4,35,Caffeine,88,Yes,Yes,No,Yes,No,Depression,No,3,1,8,9,No,Yes,4
+55,Middle_aged,Female,7,7,Caffeine,94,Yes,No,Yes,Yes,No,Anxiety,No,0,3,6,6,No,Yes,1
+50,Middle_aged,Male,3,12,Caffeine,105,Yes,Yes,No,No,Yes,PTSD,No,4,2,5,5,Yes,No,8
+54,Middle_aged,Female,6,28,PTSD,89,No,Yes,Yes,Yes,No,PTSD,No,1,0,6,0,No,No,9
+44,Middle_aged,Male,4,19,Phobia,108,No,No,No,Yes,Yes,Anxiety,Yes,0,6,7,4,No,Yes,5
+50,Middle_aged,Female,4,35,Caffeine,159,Yes,Yes,No,No,Yes,Anxiety,No,3,2,8,7,Yes,Yes,5
+21,Youth_adult,Female,8,13,Social Anxiety,115,Yes,No,No,No,Yes,Depression,No,2,5,5,7,No,Yes,10
+39,Middle_aged,Female,8,43,Social Anxiety,116,Yes,Yes,No,Yes,Yes,Depression,No,0,4,5,9,Yes,No,8
+19,Teenager,Male,8,6,Stress,150,No,No,No,No,No,Anxiety,No,2,5,7,8,Yes,Yes,8
+27,Youth_adult,Female,5,12,Phobia,102,Yes,Yes,No,No,Yes,Depression,No,4,6,8,3,Yes,No,5
+22,Youth_adult,Female,5,11,Stress,120,Yes,No,Yes,Yes,Yes,Anxiety,Yes,3,6,4,9,No,No,4
+27,Youth_adult,Female,4,43,Social Anxiety,159,No,Yes,Yes,Yes,No,Anxiety,No,3,4,8,5,No,Yes,6
+50,Middle_aged,Female,8,20,Social Anxiety,107,Yes,No,Yes,No,Yes,Anxiety,Yes,1,2,6,6,No,No,10
+55,Middle_aged,Female,9,39,PTSD,127,Yes,No,Yes,No,No,Anxiety,Yes,5,2,8,4,No,Yes,5
+30,Youth_adult,Female,7,34,Caffeine,117,Yes,Yes,No,No,Yes,PTSD,No,3,4,6,7,No,No,8
+48,Middle_aged,Male,6,14,Social Anxiety,110,No,No,No,Yes,Yes,Anxiety,Yes,0,1,5,2,No,Yes,9
+64,Senior_citizen,Female,6,42,PTSD,93,No,Yes,No,No,No,Depression,No,0,0,7,7,No,Yes,1
+53,Middle_aged,Female,5,22,PTSD,152,No,No,Yes,No,Yes,Depression,Yes,0,3,8,4,No,No,9
+62,Senior_citizen,Male,4,9,Stress,156,Yes,Yes,Yes,Yes,No,Anxiety,No,4,2,5,0,Yes,Yes,9
+41,Middle_aged,Male,3,33,Stress,108,Yes,No,No,No,Yes,Depression,Yes,3,0,6,5,No,No,6
+32,Middle_aged,Male,2,43,Caffeine,130,No,No,No,No,Yes,Anxiety,Yes,3,3,5,1,No,No,10
+46,Middle_aged,Female,2,38,Caffeine,128,No,Yes,Yes,Yes,Yes,Depression,Yes,0,5,4,6,No,No,5
+25,Youth_adult,Female,5,27,PTSD,122,Yes,Yes,No,No,Yes,Anxiety,No,1,3,7,8,No,Yes,7
+22,Youth_adult,Female,3,9,Phobia,151,No,Yes,No,No,Yes,Anxiety,Yes,1,2,5,2,No,No,8
+46,Middle_aged,Female,5,34,Stress,84,Yes,No,Yes,Yes,No,PTSD,No,3,1,8,9,No,No,9
+64,Senior_citizen,Male,2,10,Caffeine,121,Yes,Yes,No,No,Yes,Anxiety,Yes,3,1,6,3,No,Yes,9
+21,Youth_adult,Male,3,8,Stress,86,Yes,Yes,Yes,Yes,Yes,Anxiety,Yes,2,0,9,3,No,No,10
+29,Youth_adult,Male,8,33,Caffeine,121,Yes,No,No,No,Yes,Anxiety,Yes,3,5,5,3,Yes,No,3
+62,Senior_citizen,Male,4,27,Social Anxiety,115,No,Yes,Yes,Yes,No,Anxiety,No,0,0,4,2,No,Yes,8
+19,Teenager,Male,6,10,Stress,106,Yes,No,Yes,Yes,No,Anxiety,No,5,4,4,4,No,No,1
+44,Middle_aged,Male,9,36,Social Anxiety,137,Yes,Yes,No,No,No,Anxiety,No,4,1,8,8,No,Yes,7
+48,Middle_aged,Female,1,22,Stress,125,No,Yes,Yes,No,No,Depression,Yes,3,0,6,7,No,Yes,5
+53,Middle_aged,Female,4,19,Phobia,145,No,No,No,No,Yes,Anxiety,No,3,4,4,9,No,Yes,2
+53,Middle_aged,Non-binary,8,44,PTSD,104,Yes,Yes,Yes,Yes,Yes,Depression,No,0,5,8,1,Yes,No,2
+43,Middle_aged,Non-binary,2,36,PTSD,152,Yes,Yes,Yes,Yes,No,Anxiety,Yes,2,6,8,8,No,Yes,8
+60,Middle_aged,Female,8,13,PTSD,106,Yes,No,Yes,No,No,Depression,No,5,3,8,9,No,No,5
+44,Middle_aged,Male,5,41,PTSD,80,Yes,Yes,Yes,No,Yes,Anxiety,No,3,0,5,1,No,No,3
+22,Youth_adult,Female,3,14,Social Anxiety,153,No,No,No,Yes,Yes,Anxiety,Yes,1,4,5,6,No,No,1
+37,Middle_aged,Female,6,24,Caffeine,121,No,No,Yes,No,No,PTSD,Yes,1,1,7,4,Yes,Yes,7
+28,Youth_adult,Male,7,10,PTSD,131,Yes,Yes,No,No,No,Depression,Yes,1,3,6,6,No,No,3
+27,Youth_adult,Male,5,7,Phobia,104,Yes,Yes,No,No,Yes,Depression,No,4,0,4,4,No,No,7
+57,Middle_aged,Female,4,15,PTSD,133,Yes,No,No,No,No,Anxiety,Yes,4,1,5,5,No,Yes,2
+55,Middle_aged,Male,5,21,Stress,146,No,Yes,Yes,Yes,Yes,Depression,Yes,5,6,8,7,No,No,4
+23,Youth_adult,Female,4,36,Social Anxiety,85,Yes,Yes,No,No,Yes,Anxiety,Yes,3,3,4,0,No,No,2
+25,Youth_adult,Female,7,8,Stress,137,Yes,No,Yes,Yes,Yes,Anxiety,Yes,3,2,7,0,No,No,4
+40,Middle_aged,Male,0,8,Stress,149,Yes,Yes,Yes,No,Yes,PTSD,Yes,3,1,6,4,No,Yes,5
+64,Senior_citizen,Male,6,21,Stress,132,Yes,No,Yes,No,Yes,Anxiety,No,4,2,7,0,No,Yes,8
+43,Middle_aged,Male,9,23,PTSD,145,Yes,Yes,Yes,No,No,Depression,Yes,5,5,7,2,No,Yes,2
+63,Senior_citizen,Male,9,9,PTSD,137,Yes,Yes,Yes,No,Yes,Anxiety,No,3,0,6,9,No,Yes,10
+60,Middle_aged,Male,1,36,Caffeine,81,No,Yes,No,No,No,Depression,Yes,0,6,5,8,No,No,3
+29,Youth_adult,Female,8,26,Social Anxiety,155,No,No,Yes,No,Yes,PTSD,No,2,4,7,6,Yes,No,10
+43,Middle_aged,Male,0,10,Phobia,101,No,No,Yes,No,Yes,Depression,No,1,0,5,5,No,No,5
+30,Youth_adult,Female,9,39,Phobia,116,Yes,No,No,No,No,Anxiety,Yes,1,1,7,7,Yes,No,9
+57,Middle_aged,Male,5,26,Phobia,99,Yes,Yes,Yes,No,No,Anxiety,No,0,2,7,7,Yes,No,10
+35,Middle_aged,Non-binary,8,5,Stress,103,Yes,Yes,Yes,Yes,No,PTSD,No,3,2,6,5,No,Yes,5
+42,Middle_aged,Male,0,24,PTSD,144,Yes,Yes,Yes,Yes,No,Depression,No,5,3,5,3,No,No,9
+50,Middle_aged,Male,3,26,Social Anxiety,144,No,Yes,No,Yes,Yes,Depression,No,5,0,5,3,No,Yes,4
+64,Senior_citizen,Female,3,15,Stress,80,Yes,Yes,Yes,No,Yes,Anxiety,No,4,0,7,3,Yes,Yes,10
+57,Middle_aged,Female,8,17,PTSD,82,Yes,No,Yes,No,No,Anxiety,No,3,1,4,5,No,No,5
+60,Middle_aged,Male,4,7,PTSD,125,No,Yes,No,No,No,Anxiety,No,5,2,8,0,No,Yes,9
+29,Youth_adult,Female,4,13,PTSD,134,No,No,No,No,No,Depression,No,3,1,8,1,No,Yes,4
+61,Senior_citizen,Female,5,16,PTSD,154,Yes,Yes,No,No,No,Depression,No,1,1,4,5,No,No,5
+53,Middle_aged,Female,0,27,Social Anxiety,143,Yes,No,No,Yes,No,Depression,No,1,5,4,0,No,Yes,5
+21,Youth_adult,Male,0,18,Social Anxiety,124,Yes,Yes,Yes,Yes,Yes,PTSD,No,4,2,6,8,Yes,Yes,4
+22,Youth_adult,Male,8,37,Social Anxiety,105,Yes,Yes,Yes,No,No,Anxiety,No,1,1,8,5,No,Yes,4
+54,Middle_aged,Female,2,22,Stress,156,Yes,Yes,Yes,Yes,No,Anxiety,Yes,3,2,6,6,No,Yes,5
+25,Youth_adult,Female,3,13,Caffeine,144,Yes,Yes,Yes,No,No,Depression,No,0,1,5,0,No,Yes,6
+59,Middle_aged,Male,0,27,Social Anxiety,103,No,Yes,Yes,No,Yes,Depression,Yes,4,4,7,7,Yes,No,7
+45,Middle_aged,Female,8,14,PTSD,153,Yes,Yes,Yes,No,Yes,PTSD,No,0,1,4,4,No,Yes,6
+48,Middle_aged,Female,7,23,Caffeine,114,Yes,Yes,No,No,Yes,PTSD,Yes,3,1,5,4,No,No,1
+26,Youth_adult,Male,1,9,Stress,103,Yes,No,No,No,Yes,Anxiety,Yes,4,6,5,5,Yes,Yes,2
+46,Middle_aged,Female,7,27,Caffeine,107,Yes,No,Yes,Yes,No,Anxiety,No,0,4,7,6,No,Yes,7
+31,Middle_aged,Male,6,34,Phobia,159,No,No,No,No,Yes,Anxiety,Yes,4,0,4,6,No,No,3
+57,Middle_aged,Female,5,29,Caffeine,95,Yes,Yes,Yes,No,Yes,Depression,No,3,2,6,4,No,No,10
+58,Middle_aged,Female,0,32,Social Anxiety,138,Yes,No,Yes,Yes,Yes,Depression,No,5,6,8,0,No,No,2
+39,Middle_aged,Non-binary,6,38,Stress,133,Yes,Yes,No,Yes,No,Depression,Yes,4,3,6,8,Yes,No,6
+28,Youth_adult,Male,9,29,Social Anxiety,158,No,Yes,Yes,No,No,Depression,Yes,5,4,7,5,No,Yes,4
+40,Middle_aged,Male,6,14,PTSD,95,Yes,Yes,Yes,Yes,Yes,Anxiety,No,3,6,4,8,No,Yes,5
+18,Teenager,Male,8,18,Phobia,94,No,Yes,Yes,Yes,Yes,PTSD,Yes,4,0,6,3,No,No,6
+63,Senior_citizen,Male,0,34,PTSD,90,Yes,Yes,No,No,Yes,PTSD,No,4,1,4,1,No,Yes,3
+54,Middle_aged,Male,1,29,Social Anxiety,144,Yes,Yes,No,No,No,Depression,No,5,5,7,2,Yes,Yes,1
+38,Middle_aged,Non-binary,8,18,Social Anxiety,158,Yes,Yes,Yes,Yes,Yes,Depression,Yes,1,0,5,3,No,Yes,3
+43,Middle_aged,Male,8,39,Social Anxiety,147,No,No,No,Yes,No,Anxiety,Yes,5,4,5,9,No,No,3
+63,Senior_citizen,Male,5,38,PTSD,122,No,No,No,No,Yes,Anxiety,No,5,5,4,7,Yes,Yes,6
+53,Middle_aged,Female,5,14,Phobia,148,Yes,No,No,Yes,Yes,Anxiety,No,5,1,5,2,No,Yes,4
+40,Middle_aged,Male,3,39,Social Anxiety,92,Yes,No,No,No,No,Anxiety,Yes,3,0,6,7,No,Yes,7
+18,Teenager,Female,3,15,Social Anxiety,89,Yes,Yes,Yes,No,Yes,Anxiety,Yes,2,3,6,5,No,No,2
+57,Middle_aged,Male,4,15,PTSD,154,Yes,No,Yes,Yes,No,PTSD,No,5,2,4,3,No,Yes,4
+32,Middle_aged,Female,2,25,PTSD,120,Yes,No,No,Yes,Yes,Depression,No,4,2,7,6,No,Yes,8
+38,Middle_aged,Male,0,25,Social Anxiety,129,No,Yes,No,Yes,No,Depression,Yes,0,4,6,4,No,No,6
+64,Senior_citizen,Male,0,26,Stress,150,No,Yes,No,Yes,No,Anxiety,No,1,6,6,4,Yes,No,10
+26,Youth_adult,Non-binary,6,11,PTSD,138,Yes,No,No,Yes,No,Anxiety,No,5,1,8,8,No,No,3
+26,Youth_adult,Male,0,21,PTSD,118,Yes,Yes,No,No,Yes,Anxiety,No,5,1,5,2,Yes,No,10
+27,Youth_adult,Female,0,6,Stress,82,No,No,No,Yes,Yes,Anxiety,No,1,2,4,9,No,Yes,2
+43,Middle_aged,Male,2,16,PTSD,155,No,Yes,No,No,Yes,Depression,No,5,0,6,3,Yes,Yes,3
+58,Middle_aged,Male,9,22,Social Anxiety,86,Yes,Yes,No,No,No,PTSD,No,4,1,8,4,Yes,Yes,1
+52,Middle_aged,Female,3,15,Phobia,128,Yes,Yes,No,Yes,No,PTSD,No,2,3,6,0,Yes,No,1
+42,Middle_aged,Male,3,20,Caffeine,105,Yes,Yes,Yes,Yes,Yes,Anxiety,No,5,3,8,6,No,Yes,2
+43,Middle_aged,Female,1,22,Caffeine,112,Yes,No,Yes,Yes,Yes,PTSD,No,1,1,7,7,No,No,3
+28,Youth_adult,Non-binary,0,39,Social Anxiety,127,Yes,No,Yes,Yes,Yes,Anxiety,No,5,1,6,5,No,No,9
+55,Middle_aged,Female,2,30,PTSD,158,Yes,Yes,No,No,Yes,Anxiety,Yes,3,2,7,8,Yes,Yes,8
+19,Teenager,Non-binary,3,20,Stress,81,Yes,Yes,No,Yes,Yes,PTSD,Yes,4,4,6,2,No,Yes,9
+24,Youth_adult,Male,2,10,Phobia,150,Yes,No,No,No,Yes,PTSD,No,4,2,6,1,No,Yes,7
+35,Middle_aged,Male,7,16,PTSD,111,Yes,No,Yes,No,No,Depression,Yes,2,4,6,4,No,Yes,7
+44,Middle_aged,Male,9,17,Social Anxiety,83,Yes,Yes,Yes,No,No,Depression,No,3,3,7,8,No,Yes,5
+51,Middle_aged,Female,0,8,Phobia,99,No,Yes,No,No,No,PTSD,Yes,3,4,6,0,No,No,7
+44,Middle_aged,Non-binary,1,43,Phobia,115,No,No,Yes,No,Yes,PTSD,No,2,2,4,0,No,Yes,4
+34,Middle_aged,Male,6,6,PTSD,111,Yes,No,Yes,Yes,No,PTSD,Yes,0,1,7,9,Yes,Yes,5
+60,Middle_aged,Female,3,30,PTSD,107,Yes,Yes,Yes,Yes,No,Depression,No,5,4,7,2,Yes,Yes,1
+61,Senior_citizen,Male,7,31,Phobia,156,No,Yes,Yes,No,Yes,Anxiety,No,3,2,8,9,No,No,4
+41,Middle_aged,Female,2,31,PTSD,80,Yes,No,No,Yes,No,Anxiety,Yes,0,3,6,2,No,No,3
+42,Middle_aged,Female,5,19,Stress,139,Yes,No,Yes,No,Yes,Anxiety,No,0,5,4,4,Yes,No,2
+24,Youth_adult,Non-binary,8,12,PTSD,135,Yes,Yes,No,No,Yes,PTSD,Yes,4,4,4,3,No,No,2
+23,Youth_adult,Female,0,11,Stress,114,Yes,Yes,Yes,No,Yes,Depression,Yes,5,3,7,5,No,Yes,8
+41,Middle_aged,Male,0,44,Stress,109,Yes,No,No,No,Yes,Anxiety,Yes,4,3,4,7,No,Yes,1
+50,Middle_aged,Male,7,16,Phobia,133,No,Yes,Yes,No,No,Depression,Yes,1,0,8,7,No,Yes,8
+46,Middle_aged,Male,2,17,PTSD,115,Yes,Yes,No,No,Yes,Anxiety,No,4,5,5,3,Yes,Yes,9
+60,Middle_aged,Male,4,21,Stress,134,Yes,Yes,No,No,Yes,Depression,Yes,3,4,8,0,No,No,6
