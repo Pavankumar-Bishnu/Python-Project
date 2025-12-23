@@ -21,7 +21,11 @@ This dataset appears designed to analyze factors that influence panic attacks an
 - There’s potential to build a predictive model using these features to estimate panic severity panic score.
   - **CODE (ipynb) FILE :** <a href="https://github.com/Pavankumar-Bishnu/Python-Project/blob/main/Panic%20Attack_(%20ETL%20).ipynb"> Click Now </a>
 
-> **Questions & (KPI Summary Categories)**
+![PPT](https://github.com/Pavankumar-Bishnu/Python_IPYNB_Project_1/blob/main/PPT.png)
+
+**Data Visualization & Presentation File** : <a href="https://github.com/Pavankumar-Bishnu/Python-Project/blob/main/Panic%20Attack%20Analysis%20PPT.pptx"> Click PPT Now </a>
+
+## Questions & (KPI Summary Categories) :
 
 | KPI Category                | Example Metric                            | Purpose                          |
 | --------------------------- | ----------------------------------------- | -------------------------------- |
@@ -57,4 +61,3 @@ This dataset appears designed to analyze factors that influence panic attacks an
 - Lifestyle factors such as low sleep, caffeine, and moderate alcohol use may be aggravating triggers.
 - Therapy participation is almost equal, suggesting mixed approaches to management.
 - Data shows a moderate average severity, but high variability across individuals.
-  - **Data Visualization & Presentation File :** <a href="https://github.com/Pavankumar-Bishnu/Python-Project/blob/main/Panic%20Attack%20Analysis%20PPT.pptx"> Click PPT Now </a>
